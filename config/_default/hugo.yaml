@@ -1,0 +1,28 @@
+title: "Comment gérer son budget"
+theme: "lightbi-hugo"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+defaultContentLanguage: fr
+metaDataFormat: "yaml"
+pygmentsStyle: "trac"
+#pygmentsUseClasses: true
+#pygmentsCodeFences: true
+pygmentsCodefencesGuessSyntax: true
+#pygmentsUseClassic: true
+#pygmentOptions: "linenos=inline"
+#disqusShortname: "XXX"
+#googleAnalytics: "XXX"
+# sectionPagesMenu: main
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableGitInfo: false
+Paginate: 10
+summaryLength : "30"
+

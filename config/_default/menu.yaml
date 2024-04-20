@@ -1,0 +1,24 @@
+ main:
+  # - identifier: archive
+  #   name: Archive
+  #   title: Archive
+  #   pageRef: /posts/
+  #   weight: 0
+  - name: Investir
+    pageRef: /categories/investir/
+    weight: 2
+  - name: Guide
+    pageRef: /guide/
+    weight: 3
+  - name: Astuces
+    pageRef: /categories/astuces/
+    weight: 4
+  - name: Actualités
+    pageRef: /categories/actualites/
+    weight: 5
+  # - name: Search
+  #   pageRef: /search/
+  #   weight: 6
+  - name: A propos
+    pageRef: pourquoi-un-blog/
+    weight: 7
