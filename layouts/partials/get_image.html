@@ -1,0 +1,21 @@
+{{/* layouts/partials/get_image.html */}}
+
+{{ $img := false }}
+
+{{ with .Params.image }}
+  {{ $path := . }}
+
+  {{ with $.Resources.Get $path }}
+    {{ $img = . }}
+  {{ else }}
+    {{ with resources.Get $path }}
+      {{ $img = . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if not $img }}
+    {{ $img = dict "RelPermalink" (print "/" $path) "Title" $.Title }}
+  {{ end }}
+{{ end }}
+
+{{ return $img }}
