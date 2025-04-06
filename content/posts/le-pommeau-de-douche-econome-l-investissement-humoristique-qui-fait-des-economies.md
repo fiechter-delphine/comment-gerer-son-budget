@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: pommeau de douche
-  image: /wp-content/uploads/2023/11/pommeau-de-douche-1.png
+image: wp-content/uploads/2023/11/pommeau-de-douche-1.png
 date: "2023-11-22T15:10:17+00:00"
 guid: https://commentgerersonbudget.fr/?p=6442
 tag:

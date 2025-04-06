@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Se sentir libre
-  image: /wp-content/uploads/2023/05/se-sentir-libre-2.png
+image: wp-content/uploads/2023/05/se-sentir-libre-2.png
 date: "2023-05-11T12:32:01+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=3095
 title: Les extras, enfin cette bouffée d'air frais

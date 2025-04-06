@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: Loi Lagleize
-  image: /wp-content/uploads/2023/06/loi-lagleize-e1687441715750.png
+image: wp-content/uploads/2023/06/loi-lagleize-e1687441715750.png
 date: "2023-06-23T07:58:57+00:00"
 guid: https://commentgerersonbudget.fr/?p=5088
 tag:

@@ -5,7 +5,7 @@ category:
   - cashback
 cover:
   alt: Remboursement des produits du quotidien
-  image: /wp-content/uploads/2023/06/remboursement-des-produits-du-quotidien-e1686257707824.png
+image: wp-content/uploads/2023/06/remboursement-des-produits-du-quotidien-e1686257707824.png
 date: "2023-07-17T14:40:22+00:00"
 guid: https://commentgerersonbudget.fr/?p=5802
 tag:

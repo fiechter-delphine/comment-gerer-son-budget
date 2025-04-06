@@ -4,7 +4,7 @@ category:
   - habitation
 cover:
   alt: tempête Ciaran généré par craiyon
-  image: /wp-content/uploads/2023/11/tempete-ciaran-genere-par-craiyon-2.png
+image: wp-content/uploads/2023/11/tempete-ciaran-genere-par-craiyon-2.png
 date: "2023-11-08T12:42:14+00:00"
 guid: https://commentgerersonbudget.fr/?p=6545
 tag:

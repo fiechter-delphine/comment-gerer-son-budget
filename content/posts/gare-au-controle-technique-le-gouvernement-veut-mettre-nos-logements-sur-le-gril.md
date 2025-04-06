@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: contrôle technique
-  image: /wp-content/uploads/2023/06/controle-technique-1.png
+image: wp-content/uploads/2023/06/controle-technique-1.png
 date: "2023-06-21T13:40:46+00:00"
 guid: https://commentgerersonbudget.fr/?p=4150
 tag:

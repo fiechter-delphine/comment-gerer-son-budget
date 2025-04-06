@@ -4,7 +4,7 @@ category:
   - pièges-à-éviter
 cover:
   alt: parking généré par craiyon
-  image: /wp-content/uploads/2023/11/parking-genere-par-craiyon.png
+image: wp-content/uploads/2023/11/parking-genere-par-craiyon.png
 date: "2023-12-20T13:02:54+00:00"
 guid: https://commentgerersonbudget.fr/?p=6477
 tag:

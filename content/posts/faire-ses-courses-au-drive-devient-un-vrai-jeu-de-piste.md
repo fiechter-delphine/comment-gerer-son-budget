@@ -5,7 +5,7 @@ category:
   - courses
 cover:
   alt: Faire ses courses au Drive
-  image: /wp-content/uploads/2023/05/faire-ses-courses-au-drive-e1685540925434.png
+image: wp-content/uploads/2023/05/faire-ses-courses-au-drive-e1685540925434.png
 date: "2023-05-31T13:33:06+00:00"
 guid: https://commentgerersonbudget.fr/?p=4287
 tag:

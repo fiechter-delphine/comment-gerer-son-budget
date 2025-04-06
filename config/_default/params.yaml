@@ -18,6 +18,8 @@ hideAuthor: true
 # authorInfo: "She was born to be free, let her run wild in her own way and you will never lose her."
 # description: "Your can add your website description here."
 previewCardImagePlacement: "top"
+showPostImage: true
+hidePostImage: false
 
 mainSections:
   - posts
@@ -141,7 +143,7 @@ rssFullContent: true
 #     id: ""
 
 name: "Delphine Fiechter"
-website: "https://commentgerersonbudget.fr"
+website: "https://comment-gerer-son-budget.netlify.app"
 # email: "sample@gmail.com"
 # facebook: "username"
 # instagram: "username"

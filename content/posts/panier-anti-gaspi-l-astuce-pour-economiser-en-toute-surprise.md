@@ -5,7 +5,7 @@ category:
   - courses
 cover:
   alt: Panier anti-gaspi
-  image: /wp-content/uploads/2023/07/panier-anti-gaspi-e1688222418682.png
+image: wp-content/uploads/2023/07/panier-anti-gaspi-e1688222418682.png
 date: "2023-07-02T17:30:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=4124
 tag:

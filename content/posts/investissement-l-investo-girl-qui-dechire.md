@@ -5,7 +5,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: Investo-girl investir
-  image: /wp-content/uploads/2023/08/investo-girl-investir-1.png
+image: wp-content/uploads/2023/08/investo-girl-investir-1.png
 date: "2023-08-23T03:45:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6229
 tag:

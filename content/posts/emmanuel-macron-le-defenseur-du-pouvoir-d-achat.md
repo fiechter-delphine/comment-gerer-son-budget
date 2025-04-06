@@ -4,7 +4,7 @@ category:
   - alimentation
 cover:
   alt: emmanuel-macron-3 1
-  image: /wp-content/uploads/2023/09/emmanuel-macron-3-1.png
+image: wp-content/uploads/2023/09/emmanuel-macron-3-1.png
 date: "2023-09-26T11:30:40+00:00"
 guid: https://commentgerersonbudget.fr/?p=6358
 tag:

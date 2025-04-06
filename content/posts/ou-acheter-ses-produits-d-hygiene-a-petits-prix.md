@@ -4,7 +4,7 @@ category:
   - courses
 cover:
   alt: Produits d'hygiène à petits prix chez Normal
-  image: /wp-content/uploads/2023/05/produits-dhygiene-a-petits-prix-chez-normal-1-e1685566170292.png
+image: wp-content/uploads/2023/05/produits-dhygiene-a-petits-prix-chez-normal-1-e1685566170292.png
 date: "2023-06-02T13:58:40+00:00"
 guid: https://commentgerersonbudget.fr/?p=4319
 tag:

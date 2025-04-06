@@ -4,7 +4,7 @@ category:
   - aides-sociales
 cover:
   alt: subvention
-  image: /wp-content/uploads/2023/07/subvention-1-e1689252150786.png
+image: wp-content/uploads/2023/07/subvention-1-e1689252150786.png
 date: "2023-07-13T12:36:09+00:00"
 guid: https://commentgerersonbudget.fr/?p=5787
 tag:

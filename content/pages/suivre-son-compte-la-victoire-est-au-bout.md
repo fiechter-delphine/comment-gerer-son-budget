@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Suivre son compte
-  image: /wp-content/uploads/2023/05/suivre-son-compte-pour-conroler-son-budget-1.png
+image: wp-content/uploads/2023/05/suivre-son-compte-pour-conroler-son-budget-1.png
 date: "2023-05-11T19:58:11+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=3232
 title: Suivre son compte, la victoire est au bout !

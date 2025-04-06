@@ -4,7 +4,7 @@ category:
   - santé
 cover:
   alt: arrêt maladie
-  image: /wp-content/uploads/2023/06/arret-maladie-1.png
+image: wp-content/uploads/2023/06/arret-maladie-1.png
 date: "2023-06-20T07:47:42+00:00"
 guid: https://commentgerersonbudget.fr/?p=5043
 tag:

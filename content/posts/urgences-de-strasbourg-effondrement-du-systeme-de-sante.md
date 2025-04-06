@@ -4,7 +4,7 @@ category:
   - santé
 cover:
   alt: Urgences de Strasbourg
-  image: /wp-content/uploads/2023/07/urgences-de-strasbourg-e1688201068918.png
+image: wp-content/uploads/2023/07/urgences-de-strasbourg-e1688201068918.png
 date: "2023-07-01T08:57:51+00:00"
 guid: https://commentgerersonbudget.fr/?p=5602
 tag:

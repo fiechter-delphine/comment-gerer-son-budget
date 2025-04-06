@@ -4,7 +4,7 @@ category:
   - habitation
 cover:
   alt: Déménagement, charges locatives
-  image: /wp-content/uploads/2023/06/demenagement-charges-locatives-e1686931099743.png
+image: wp-content/uploads/2023/06/demenagement-charges-locatives-e1686931099743.png
 date: "2023-06-23T08:56:53+00:00"
 guid: https://commentgerersonbudget.fr/?p=4866
 tag:

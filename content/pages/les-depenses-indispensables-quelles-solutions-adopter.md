@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Réduire le prix du caddie
-  image: /wp-content/uploads/2023/05/reduire-le-prix-du-caddie-e1683901407344.png
+image: wp-content/uploads/2023/05/reduire-le-prix-du-caddie-e1683901407344.png
 date: "2023-05-10T14:10:31+00:00"
 guid: https://commentgerersonbudget.fr/?p=3061
 title: Les dépenses indispensables, quelles solutions adopter ?

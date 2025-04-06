@@ -5,7 +5,7 @@ category:
   - courses
 cover:
   alt: Qualité vs quantité
-  image: /wp-content/uploads/2023/07/qualite-vs-quantite.png
+image: wp-content/uploads/2023/07/qualite-vs-quantite.png
 date: "2023-07-10T09:38:04+00:00"
 guid: https://commentgerersonbudget.fr/?p=5743
 tag:

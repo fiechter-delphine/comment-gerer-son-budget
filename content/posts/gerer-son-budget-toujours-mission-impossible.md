@@ -4,7 +4,7 @@ category:
   - banque
 cover:
   alt: Gérer son budget, toujours difficile !
-  image: /wp-content/uploads/2023/06/gerer-son-budget-e1685998353327.png
+image: wp-content/uploads/2023/06/gerer-son-budget-e1685998353327.png
 date: "2023-06-06T08:47:38+00:00"
 guid: https://commentgerersonbudget.fr/?p=4561
 tag:

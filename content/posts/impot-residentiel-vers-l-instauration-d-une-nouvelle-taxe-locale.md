@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: impot résidentiel généré par craiyon
-  image: /wp-content/uploads/2023/11/impot-residentiel-genere-par-craiyon.png
+image: wp-content/uploads/2023/11/impot-residentiel-genere-par-craiyon.png
 date: "2023-12-16T12:54:42+00:00"
 guid: https://commentgerersonbudget.fr/?p=6632
 tag:

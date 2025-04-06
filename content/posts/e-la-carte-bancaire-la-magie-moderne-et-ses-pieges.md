@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: e-la-carte-bancaire-la-magie-moderne-et-ses-pieges-sorciere-et-chaudron
-  image: /wp-content/uploads/2023/08/e-la-carte-bancaire-la-magie-moderne-et-ses-pieges-sorciere-et-chaudron-1-e1692714677789.png
+image: wp-content/uploads/2023/08/e-la-carte-bancaire-la-magie-moderne-et-ses-pieges-sorciere-et-chaudron-1-e1692714677789.png
 date: "2023-08-23T03:31:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6105
 tag:

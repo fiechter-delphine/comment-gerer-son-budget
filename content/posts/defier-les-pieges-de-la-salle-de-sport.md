@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: Salle de sport
-  image: /wp-content/uploads/2023/07/salle-de-sport-e1688648111353.png
+image: wp-content/uploads/2023/07/salle-de-sport-e1688648111353.png
 date: "2023-07-09T16:30:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5713
 tag:

@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Comment calculer son budget
-  image: /wp-content/uploads/2023/05/comment-calculer-son-budget.png
+image: wp-content/uploads/2023/05/comment-calculer-son-budget.png
 date: "2023-05-11T19:04:20+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=3220
 title: Calculer son budget, on n'y échappe pas !

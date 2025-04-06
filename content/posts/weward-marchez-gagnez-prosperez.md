@@ -4,7 +4,7 @@ category:
   - cashback
 cover:
   alt: Être recompensé WeWard
-  image: /wp-content/uploads/2023/07/etre-recompense-weward.png
+image: wp-content/uploads/2023/07/etre-recompense-weward.png
 date: "2023-07-20T12:22:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5833
 tag:

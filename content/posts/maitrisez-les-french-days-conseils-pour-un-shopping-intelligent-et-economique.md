@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: Explorer vos dépenses
-  image: /wp-content/uploads/2023/04/explorer-ses-depenses-2.png
+image: wp-content/uploads/2023/04/explorer-ses-depenses-2.png
 date: "2023-09-26T10:54:36+00:00"
 guid: https://commentgerersonbudget.fr/?p=6351
 tag:

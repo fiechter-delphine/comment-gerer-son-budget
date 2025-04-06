@@ -4,7 +4,7 @@ category:
   - energie
 cover:
   alt: Fin des aides exceptionnelles
-  image: /wp-content/uploads/2023/07/fin-des-aides-exceptionnelles-e1689620983822.png
+image: wp-content/uploads/2023/07/fin-des-aides-exceptionnelles-e1689620983822.png
 date: "2023-07-18T08:25:06+00:00"
 guid: https://commentgerersonbudget.fr/?p=5811
 tag:

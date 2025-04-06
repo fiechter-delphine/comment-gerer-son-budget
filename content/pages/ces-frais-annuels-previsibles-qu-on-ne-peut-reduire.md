@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Entretien de la chaudière
-  image: /wp-content/uploads/2023/05/entretien-de-la-chaudiere-1.png
+image: wp-content/uploads/2023/05/entretien-de-la-chaudiere-1.png
 date: "2023-05-11T11:37:41+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=3068
 title: Ces frais annuels prévisibles qu'on ne peut réduire !

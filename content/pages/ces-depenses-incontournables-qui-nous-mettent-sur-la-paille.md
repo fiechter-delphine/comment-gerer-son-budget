@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Les dépenses incontournables
-  image: /wp-content/uploads/2023/05/depenses-incontournables.png
+image: wp-content/uploads/2023/05/depenses-incontournables.png
 date: "2023-05-05T13:31:35+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=2750
 title: Ces dépenses incontournables qui nous mettent sur la paille

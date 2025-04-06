@@ -4,7 +4,7 @@ category:
   - pièges-à-éviter
 cover:
   alt: investir-dans-des-garages
-  image: /wp-content/uploads/2023/10/investir-dans-des-garages-2.png
+image: wp-content/uploads/2023/10/investir-dans-des-garages-2.png
 date: "2023-10-21T12:34:21+00:00"
 guid: https://commentgerersonbudget.fr/?p=6475
 tag:

@@ -5,7 +5,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: Guide - Joindre-les-deux-bouts
-  image: /wp-content/uploads/2023/04/guide-joindre-les-deux-bouts.png
+image: wp-content/uploads/2023/04/guide-joindre-les-deux-bouts.png
 date: "2023-07-31T03:45:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5959
 tag:

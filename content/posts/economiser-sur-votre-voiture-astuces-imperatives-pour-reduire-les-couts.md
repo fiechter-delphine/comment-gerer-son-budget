@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: voiture
-  image: /wp-content/uploads/2024/02/voiture-jpg.webp
+image: wp-content/uploads/2024/02/voiture-jpg.webp
 date: "2024-02-28T11:50:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6088
 tag:

@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: gaz 1
-  image: /wp-content/uploads/2024/02/gaz-1-jpg.webp
+image: wp-content/uploads/2024/02/gaz-1-jpg.webp
 date: "2024-02-10T13:33:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=7073
 tag:

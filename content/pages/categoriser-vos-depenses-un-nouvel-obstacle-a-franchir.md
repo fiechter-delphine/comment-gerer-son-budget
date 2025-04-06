@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Catégoriser vos dépenses
-  image: /wp-content/uploads/2023/04/categoriser-vos-depenses-1.png
+image: wp-content/uploads/2023/04/categoriser-vos-depenses-1.png
 date: "2023-04-28T18:34:10+00:00"
 guid: https://commentgerersonbudget.fr/?p=1680
 title: Catégoriser vos dépenses, un nouvel obstacle à franchir !

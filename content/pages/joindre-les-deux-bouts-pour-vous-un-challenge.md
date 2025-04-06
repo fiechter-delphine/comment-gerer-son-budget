@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Joindre les deux bouts
-  image: /wp-content/uploads/2023/04/joindre-les-deux-bouts.png
+image: wp-content/uploads/2023/04/joindre-les-deux-bouts.png
 date: "2023-04-27T20:33:39+00:00"
 guid: https://commentgerersonbudget.fr/?p=683
 title: Joindre les deux bouts, pour vous un challenge ?

@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Analyser vos dépenses
-  image: /wp-content/uploads/2023/04/analyser-vos-depenses.png
+  image: wp-content/uploads/2023/04/analyser-vos-depenses.png
 date: "2023-04-25T11:39:10+00:00"
 guid: https://commentgerersonbudget.fr/?p=718
 title: Analyser vos dépenses ! La victoire au bout des doigts !

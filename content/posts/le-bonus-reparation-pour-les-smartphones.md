@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: logo qualirépar
-  image: /wp-content/uploads/2023/10/logo-qualirepar.png
+image: wp-content/uploads/2023/10/logo-qualirepar.png
 date: "2023-10-25T09:45:40+00:00"
 guid: https://commentgerersonbudget.fr/?p=6446
 tag:

@@ -4,7 +4,7 @@ category:
   - alimentation
 cover:
   alt: michel-edouard-leclerc
-  image: /wp-content/uploads/2023/09/michel-edouard-leclerc.png
+image: wp-content/uploads/2023/09/michel-edouard-leclerc.png
 date: "2023-09-08T03:50:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6331
 tag:

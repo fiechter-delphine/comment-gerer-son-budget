@@ -5,7 +5,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: Bon plan catalogue promo
-  image: /wp-content/uploads/2023/04/bon-plan-catalogue-promo.png
+image: wp-content/uploads/2023/04/bon-plan-catalogue-promo.png
 date: "2023-04-30T16:52:03+00:00"
 guid: https://commentgerersonbudget.fr/?p=2190
 tag:

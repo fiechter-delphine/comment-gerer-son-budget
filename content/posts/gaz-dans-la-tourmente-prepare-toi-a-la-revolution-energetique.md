@@ -4,7 +4,7 @@ category:
   - energie
 cover:
   alt: Tarif réglementé du gaz
-  image: /wp-content/uploads/2023/06/tarif-reglemente-du-gaz.png
+image: wp-content/uploads/2023/06/tarif-reglemente-du-gaz.png
 date: "2023-06-27T06:15:34+00:00"
 guid: https://commentgerersonbudget.fr/?p=5424
 tag:

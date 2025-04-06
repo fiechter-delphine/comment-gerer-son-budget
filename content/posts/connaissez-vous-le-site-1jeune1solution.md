@@ -5,7 +5,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: Site 1jeune1solution
-  image: /wp-content/uploads/2023/06/site-1jeune1solution-e1686067004292.png
+image: wp-content/uploads/2023/06/site-1jeune1solution-e1686067004292.png
 date: "2023-06-07T13:39:50+00:00"
 guid: https://commentgerersonbudget.fr/?p=4649
 tag:

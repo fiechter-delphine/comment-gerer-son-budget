@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Pourquoi un blog
-  image: /wp-content/uploads/2023/04/pourquoi-un-blog-1.png
+image: wp-content/uploads/2023/04/pourquoi-un-blog-1.png
 date: "2023-04-27T19:34:38+00:00"
 guid: https://commentgerersonbudget.fr/?p=1315
 title: Un blog pour gérer son budget , pourquoi ?

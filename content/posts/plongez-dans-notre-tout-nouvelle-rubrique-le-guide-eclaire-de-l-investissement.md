@@ -6,7 +6,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: logement- décompte de charges
-  image: /wp-content/uploads/2023/06/logement-decompte-de-charges.png
+image: wp-content/uploads/2023/06/logement-decompte-de-charges.png
 date: "2023-07-21T02:59:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5856
 tag:

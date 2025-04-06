@@ -4,7 +4,7 @@ category:
   - coupons-réduction
 cover:
   alt: ventes privées
-  image: /wp-content/uploads/2023/06/ventes-privees.png
+image: wp-content/uploads/2023/06/ventes-privees.png
 date: "2023-06-19T14:12:25+00:00"
 guid: https://commentgerersonbudget.fr/?p=5020
 tag:

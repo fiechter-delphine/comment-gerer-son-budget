@@ -4,7 +4,7 @@ category:
   - banque
 cover:
   alt: Compte dans le rouge
-  image: /wp-content/uploads/2023/04/compte-dans-le-rouge.png
+image: wp-content/uploads/2023/04/compte-dans-le-rouge.png
 date: "2023-04-25T07:26:25+00:00"
 guid: https://commentgerersonbudget.fr/?p=696
 tag:

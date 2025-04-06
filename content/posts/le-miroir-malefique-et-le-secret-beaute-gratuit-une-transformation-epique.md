@@ -4,7 +4,7 @@ category:
   - bien-être
 cover:
   alt: secret beauté- soin du visage
-  image: /wp-content/uploads/2023/07/secret-beaute-soin-du-visage-e1688459836199.png
+image: wp-content/uploads/2023/07/secret-beaute-soin-du-visage-e1688459836199.png
 date: "2023-07-04T08:00:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5678
 tag:

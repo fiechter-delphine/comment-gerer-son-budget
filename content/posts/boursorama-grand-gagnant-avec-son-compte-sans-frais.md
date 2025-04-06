@@ -4,7 +4,7 @@ category:
   - banque
 cover:
   alt: Banque en ligne compte sans frais
-  image: /wp-content/uploads/2023/05/banque-en-ligne-compte-sans-frais-e1684745280882.png
+image: wp-content/uploads/2023/05/banque-en-ligne-compte-sans-frais-e1684745280882.png
 date: "2023-05-22T09:00:24+00:00"
 guid: https://commentgerersonbudget.fr/?p=3936
 tag:

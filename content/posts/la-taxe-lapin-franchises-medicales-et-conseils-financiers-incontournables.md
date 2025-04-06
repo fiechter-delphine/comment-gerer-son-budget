@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: taxe lapin généré par craiyon
-  image: /wp-content/uploads/2023/11/taxe-lapin-genere-par-craiyon.png
+image: wp-content/uploads/2023/11/taxe-lapin-genere-par-craiyon.png
 date: "2023-12-06T12:50:42+00:00"
 guid: https://commentgerersonbudget.fr/?p=6658
 tag:

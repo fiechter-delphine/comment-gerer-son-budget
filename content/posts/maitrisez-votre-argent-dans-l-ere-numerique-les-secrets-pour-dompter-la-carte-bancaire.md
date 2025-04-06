@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: La carte bancaire
-  image: /wp-content/uploads/2023/06/la-carte-bancaire.png
+image: wp-content/uploads/2023/06/la-carte-bancaire.png
 date: "2023-07-05T09:24:11+00:00"
 guid: https://commentgerersonbudget.fr/?p=750
 tag:

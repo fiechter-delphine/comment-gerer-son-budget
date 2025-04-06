@@ -5,7 +5,7 @@ category:
   - coupons-réduction
 cover:
   alt: resto
-  image: /wp-content/uploads/2024/02/resto-jpg.webp
+image: wp-content/uploads/2024/02/resto-jpg.webp
 date: "2024-02-14T17:07:55+00:00"
 guid: https://commentgerersonbudget.fr/?p=7080
 tag:

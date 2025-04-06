@@ -4,7 +4,7 @@ category:
   - banque
 cover:
   alt: Bon de réduction Cdiscount
-  image: /wp-content/uploads/2023/06/bon-de-reduction-cdiscount-e1685962535171.png
+image: wp-content/uploads/2023/06/bon-de-reduction-cdiscount-e1685962535171.png
 date: "2023-06-06T07:39:20+00:00"
 guid: https://commentgerersonbudget.fr/?p=4452
 tag:

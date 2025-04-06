@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: trouver-un-billet-a-prix-reduit-1-e1690275448829
-  image: /wp-content/uploads/2023/07/trouver-un-billet-a-prix-reduit-1-e1690275448829-2.png
+image: wp-content/uploads/2023/07/trouver-un-billet-a-prix-reduit-1-e1690275448829-2.png
 date: "2023-07-25T08:54:34+00:00"
 guid: https://commentgerersonbudget.fr/?p=5914
 tag:

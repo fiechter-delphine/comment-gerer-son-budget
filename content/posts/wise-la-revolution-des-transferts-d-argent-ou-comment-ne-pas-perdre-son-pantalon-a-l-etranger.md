@@ -6,7 +6,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: wise
-  image: /wp-content/uploads/2023/10/wise-e1696102652298.png
+image: wp-content/uploads/2023/10/wise-e1696102652298.png
 date: "2023-10-03T14:32:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6419
 tag:

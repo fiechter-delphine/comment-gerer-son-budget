@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: ticket de caisse
-  image: /wp-content/uploads/2023/09/ticket-de-caisse.png
+image: wp-content/uploads/2023/09/ticket-de-caisse.png
 date: "2023-09-28T16:06:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6097
 tag:

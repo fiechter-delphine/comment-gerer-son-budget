@@ -5,7 +5,7 @@ category:
   - courses
 cover:
   alt: courses alimentaires
-  image: /wp-content/uploads/2023/08/courses-alimentaires-1.png
+image: wp-content/uploads/2023/08/courses-alimentaires-1.png
 date: "2023-08-09T03:35:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6095
 tag:

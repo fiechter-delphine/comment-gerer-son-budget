@@ -4,7 +4,7 @@ category:
   - energie
 cover:
   alt: F - L'art des économies énergétiques
-  image: /wp-content/uploads/2023/08/f-lart-des-economies-energetiques.png
+image: wp-content/uploads/2023/08/f-lart-des-economies-energetiques.png
 date: "2023-08-30T03:45:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6107
 tag:

@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: calculatrice généré par craiyon
-  image: /wp-content/uploads/2023/11/calculatrice-genere-par-craiyon-1.png
+image: wp-content/uploads/2023/11/calculatrice-genere-par-craiyon-1.png
 date: "2024-01-03T13:13:37+00:00"
 guid: https://commentgerersonbudget.fr/?p=6081
 tag:

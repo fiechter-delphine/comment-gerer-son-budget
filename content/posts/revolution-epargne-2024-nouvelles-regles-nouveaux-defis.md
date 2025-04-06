@@ -4,7 +4,7 @@ category:
   - banque
 cover:
   alt: épargner généré par craiyon
-  image: /wp-content/uploads/2024/01/epargner-genere-par-craiyon.png
+image: wp-content/uploads/2024/01/epargner-genere-par-craiyon.png
 date: "2024-01-17T12:54:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6789
 tag:

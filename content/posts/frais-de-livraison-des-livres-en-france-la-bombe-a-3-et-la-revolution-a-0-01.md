@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: livre
-  image: /wp-content/uploads/2023/10/livre.png
+image: wp-content/uploads/2023/10/livre.png
 date: "2023-10-08T11:27:17+00:00"
 guid: https://commentgerersonbudget.fr/?p=6464
 tag:

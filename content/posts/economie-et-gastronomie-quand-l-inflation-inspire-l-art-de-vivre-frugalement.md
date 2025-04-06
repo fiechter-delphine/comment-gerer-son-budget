@@ -4,7 +4,7 @@ category:
   - alimentation
 cover:
   alt: Manger équilibré
-  image: /wp-content/uploads/2023/04/manger-equilibre.png
+image: wp-content/uploads/2023/04/manger-equilibre.png
 date: "2023-08-21T03:40:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6212
 tag:

@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: emmanuel-macron-et-lelectricite
-  image: /wp-content/uploads/2023/09/emmanuel-macron-et-lelectricite.png
+image: wp-content/uploads/2023/09/emmanuel-macron-et-lelectricite.png
 date: "2023-09-28T11:40:47+00:00"
 guid: https://commentgerersonbudget.fr/?p=6370
 tag:

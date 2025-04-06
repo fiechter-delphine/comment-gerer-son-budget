@@ -5,7 +5,7 @@ category:
   - courses
 cover:
   alt: 099€
-  image: /wp-content/uploads/2023/07/099E.png
+image: wp-content/uploads/2023/07/099E.png
 date: "2023-07-31T03:50:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5947
 tag:

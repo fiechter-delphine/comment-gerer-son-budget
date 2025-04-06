@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: Traverser la rue rsa
-  image: /wp-content/uploads/2023/05/traverser-la-rue-rsa.png
+image: wp-content/uploads/2023/05/traverser-la-rue-rsa.png
 date: "2023-05-28T09:10:53+00:00"
 guid: https://commentgerersonbudget.fr/?p=1929
 tag:

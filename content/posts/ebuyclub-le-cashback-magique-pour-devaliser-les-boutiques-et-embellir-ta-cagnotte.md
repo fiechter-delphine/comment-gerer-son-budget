@@ -4,7 +4,7 @@ category:
   - cashback
 cover:
   alt: Application pour économiser
-  image: /wp-content/uploads/2023/08/application-pour-economiser.png
+image: wp-content/uploads/2023/08/application-pour-economiser.png
 date: "2023-08-02T03:45:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6006
 tag:

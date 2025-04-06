@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: anticiper la récession 2024
-  image: /wp-content/uploads/2023/08/anticiper.png
+image: wp-content/uploads/2023/08/anticiper.png
 date: "2023-08-04T03:40:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6030
 tag:

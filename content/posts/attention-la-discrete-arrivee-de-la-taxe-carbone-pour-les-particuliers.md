@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: taxe carbone
-  image: /wp-content/uploads/2023/06/taxe-carbone-e1687525535384.png
+image: wp-content/uploads/2023/06/taxe-carbone-e1687525535384.png
 date: "2023-06-26T07:38:38+00:00"
 guid: https://commentgerersonbudget.fr/?p=5172
 tag:

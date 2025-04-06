@@ -7,7 +7,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: econo-man
-  image: /wp-content/uploads/2023/09/econo-man.png
+image: wp-content/uploads/2023/09/econo-man.png
 date: "2023-10-05T15:02:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6385
 tag:

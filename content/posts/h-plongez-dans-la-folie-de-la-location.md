@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: H - Plongez dans la Folie de la Location !
-  image: /wp-content/uploads/2023/09/h-plongez-dans-la-folie-de-la-location.png
+image: wp-content/uploads/2023/09/h-plongez-dans-la-folie-de-la-location.png
 date: "2023-09-06T03:46:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6307
 tag:

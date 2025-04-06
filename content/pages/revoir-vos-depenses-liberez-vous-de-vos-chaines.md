@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Libérez-vous de vos chaînes
-  image: /wp-content/uploads/2023/05/revoir-vos-depenses-liberez-vous-de-vos-chaines-1.png
+image: wp-content/uploads/2023/05/revoir-vos-depenses-liberez-vous-de-vos-chaines-1.png
 date: "2023-05-04T17:45:04+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=2596
 title: Revoir vos dépenses ! libérez-vous de vos chaînes !

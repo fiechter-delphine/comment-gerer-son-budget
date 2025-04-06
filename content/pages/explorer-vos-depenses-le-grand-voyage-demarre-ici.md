@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Explorer vos dépenses
-  image: /wp-content/uploads/2023/04/explorer-vos-depenses.png
+image: wp-content/uploads/2023/04/explorer-vos-depenses.png
 date: "2023-04-20T07:53:12+00:00"
 guid: https://commentgerersonbudget.fr/?p=1
 title: Explorer vos dépenses ! Le grand voyage démarre ici !

@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Cours de poterie, dépenses facultatives
-  image: /wp-content/uploads/2023/05/cours-de-poterie.png
+image: wp-content/uploads/2023/05/cours-de-poterie.png
 date: "2023-05-10T14:40:55+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=3064
 title: Les dépenses facultatives à ne pas sacrifier !

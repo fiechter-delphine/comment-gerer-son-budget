@@ -4,7 +4,7 @@ category:
   - pièges-à-éviter
 cover:
   alt: congé payés - arret-maladie généré par craiyon
-  image: /wp-content/uploads/2023/11/conge-payes-arret-maladie-genere-par-craiyon.png
+image: wp-content/uploads/2023/11/conge-payes-arret-maladie-genere-par-craiyon.png
 date: "2023-11-15T12:11:32+00:00"
 guid: https://commentgerersonbudget.fr/?p=6563
 tag:

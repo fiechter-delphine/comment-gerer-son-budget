@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Qui suis je ? Delphine
-  image: /wp-content/uploads/2023/04/Qui-suis-je.png
+image: wp-content/uploads/2023/04/Qui-suis-je.png
 date: "2023-04-26T20:07:24+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=1180
 title: Qui suis-je ? Je vais tout vous dire !

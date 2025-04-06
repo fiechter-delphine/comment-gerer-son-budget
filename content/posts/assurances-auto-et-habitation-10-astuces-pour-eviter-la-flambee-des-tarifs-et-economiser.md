@@ -4,7 +4,7 @@ category:
   - habitation
 cover:
   alt: assurance-auto-et-habitation
-  image: /wp-content/uploads/2023/10/assurance-auto-et-habitation-2.png
+image: wp-content/uploads/2023/10/assurance-auto-et-habitation-2.png
 date: "2023-10-28T19:17:55+00:00"
 guid: https://commentgerersonbudget.fr/?p=6510
 tag:

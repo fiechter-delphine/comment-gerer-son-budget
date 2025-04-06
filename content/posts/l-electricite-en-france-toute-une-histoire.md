@@ -4,7 +4,7 @@ category:
   - energie
 cover:
   alt: L'électricité en France
-  image: /wp-content/uploads/2023/05/lelectricite-en-france-1.png
+image: wp-content/uploads/2023/05/lelectricite-en-france-1.png
 date: "2023-05-13T22:19:48+00:00"
 guid: https://commentgerersonbudget.fr/?p=3646
 tag:

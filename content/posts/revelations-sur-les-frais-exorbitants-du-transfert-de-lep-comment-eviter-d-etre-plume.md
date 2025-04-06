@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: frais de transfert
-  image: /wp-content/uploads/2024/03/frais-de-transfert-jpg.webp
+image: wp-content/uploads/2024/03/frais-de-transfert-jpg.webp
 date: "2024-03-09T12:40:07+00:00"
 guid: https://commentgerersonbudget.fr/?p=7170
 tag:

@@ -5,7 +5,7 @@ category:
   - coupons-réduction
 cover:
   alt: Coupons réduction
-  image: /wp-content/uploads/2023/06/coupons-reduction-e1687603113232.png
+image: wp-content/uploads/2023/06/coupons-reduction-e1687603113232.png
 date: "2023-08-09T15:30:08+00:00"
 guid: https://commentgerersonbudget.fr/?p=6180
 tag:

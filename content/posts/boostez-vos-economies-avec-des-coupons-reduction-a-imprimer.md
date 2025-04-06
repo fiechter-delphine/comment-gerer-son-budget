@@ -5,7 +5,7 @@ category:
   - cashback
 cover:
   alt: Coupons réduction
-  image: /wp-content/uploads/2023/06/coupons-reduction-e1687603113232.png
+image: wp-content/uploads/2023/06/coupons-reduction-e1687603113232.png
 date: "2023-06-24T10:45:46+00:00"
 guid: https://commentgerersonbudget.fr/?p=4901
 tag:

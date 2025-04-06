@@ -4,7 +4,7 @@ category:
   - courses
 cover:
   alt: Fin des super-promotions sur les produits d'hygiène
-  image: /wp-content/uploads/2023/05/fin-des-super-promotions-sur-les-produits-dhygiene-1-e1685559608226.png
+image: wp-content/uploads/2023/05/fin-des-super-promotions-sur-les-produits-dhygiene-1-e1685559608226.png
 date: "2023-06-01T10:28:10+00:00"
 guid: https://commentgerersonbudget.fr/?p=4293
 tag:

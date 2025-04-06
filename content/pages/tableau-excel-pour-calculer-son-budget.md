@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: comment-calculer-son-budget 1
-  image: /wp-content/uploads/2023/06/tableau-excel-calculer-son-budget.png
+image: wp-content/uploads/2023/06/tableau-excel-calculer-son-budget.png
 date: "2023-06-07T20:39:06+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=4704
 title: Tableau Excel pour calculer son Budget

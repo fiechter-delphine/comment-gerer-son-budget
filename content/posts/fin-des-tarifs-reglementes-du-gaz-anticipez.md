@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: fin des tarifs réglementés du gaz
-  image: /wp-content/uploads/2023/06/fin-des-tarifs-reglementes-du-gaz.png
+image: wp-content/uploads/2023/06/fin-des-tarifs-reglementes-du-gaz.png
 date: "2023-06-14T12:35:54+00:00"
 guid: https://commentgerersonbudget.fr/?p=4965
 tag:

@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Guide gratuit
-  image: /wp-content/uploads/2023/05/guide-gratuit-5.png
+image: wp-content/uploads/2023/05/guide-gratuit-5.png
 date: "2023-05-02T17:04:41+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=2611
 title: 'Enfin un guide gratuit : comment gérer son budget ?'

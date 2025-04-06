@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: calendrier
-  image: /wp-content/uploads/2023/09/calendrier-1.png
+image: wp-content/uploads/2023/09/calendrier-1.png
 date: "2023-09-30T18:32:06+00:00"
 guid: https://commentgerersonbudget.fr/?p=6389
 tag:

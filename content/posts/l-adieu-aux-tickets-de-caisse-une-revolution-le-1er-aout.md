@@ -4,7 +4,7 @@ category:
   - courses
 cover:
   alt: ticket de caisse par mail
-  image: /wp-content/uploads/2023/07/reserver-pour-votre-voyage-a-majorque-1.png
+image: wp-content/uploads/2023/07/reserver-pour-votre-voyage-a-majorque-1.png
 date: "2023-07-27T18:45:53+00:00"
 guid: https://commentgerersonbudget.fr/?p=5932
 tag:

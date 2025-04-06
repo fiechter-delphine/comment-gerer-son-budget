@@ -4,7 +4,7 @@ category:
   - téléphone
 cover:
   alt: téléphone seconde main
-  image: /wp-content/uploads/2023/05/telephone-seconde-main-e1685385358925.png
+image: wp-content/uploads/2023/05/telephone-seconde-main-e1685385358925.png
 date: "2023-05-29T18:44:12+00:00"
 guid: https://commentgerersonbudget.fr/?p=4120
 tag:

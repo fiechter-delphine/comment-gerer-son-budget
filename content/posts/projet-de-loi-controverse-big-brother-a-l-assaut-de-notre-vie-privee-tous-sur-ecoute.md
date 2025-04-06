@@ -5,7 +5,7 @@ category:
   - non-classé
 cover:
   alt: Tous sur écoute
-  image: /wp-content/uploads/2023/06/tous-sur-ecoute-e1687871446910.png
+image: wp-content/uploads/2023/06/tous-sur-ecoute-e1687871446910.png
 date: "2023-06-27T13:18:25+00:00"
 guid: https://commentgerersonbudget.fr/?p=5542
 tag:

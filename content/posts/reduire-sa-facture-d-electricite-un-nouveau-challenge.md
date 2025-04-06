@@ -4,7 +4,7 @@ category:
   - energie
 cover:
   alt: Réduire sa facture d'électricité
-  image: /wp-content/uploads/2023/05/reduire-sa-facture-delectricite.png
+image: wp-content/uploads/2023/05/reduire-sa-facture-delectricite.png
 date: "2023-05-13T16:24:11+00:00"
 guid: https://commentgerersonbudget.fr/?p=3626
 tag:

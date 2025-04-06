@@ -4,7 +4,7 @@ category:
   - banque
 cover:
   alt: coffre généré par craiyon
-  image: /wp-content/uploads/2024/01/coffre-genere-par-craiyon.png
+image: wp-content/uploads/2024/01/coffre-genere-par-craiyon.png
 date: "2024-02-07T14:19:19+00:00"
 guid: https://commentgerersonbudget.fr/?p=6845
 tag:

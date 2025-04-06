@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: sangsus généré par craiyon
-  image: /wp-content/uploads/2023/11/sangsus-genere-par-craiyon-1.png
+image: wp-content/uploads/2023/11/sangsus-genere-par-craiyon-1.png
 date: "2023-12-23T12:51:44+00:00"
 guid: https://commentgerersonbudget.fr/?p=6075
 tag:

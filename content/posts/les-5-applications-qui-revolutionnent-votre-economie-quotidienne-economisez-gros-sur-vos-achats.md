@@ -5,7 +5,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: application
-  image: /wp-content/uploads/2024/02/application-jpg.webp
+image: wp-content/uploads/2024/02/application-jpg.webp
 date: "2024-02-24T12:36:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=7108
 tag:

@@ -5,7 +5,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: Sorcière et son chaudron
-  image: /wp-content/uploads/2023/08/sorciere-et-son-chaudron-1.png
+image: wp-content/uploads/2023/08/sorciere-et-son-chaudron-1.png
 date: "2023-08-07T03:45:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6124
 tag:

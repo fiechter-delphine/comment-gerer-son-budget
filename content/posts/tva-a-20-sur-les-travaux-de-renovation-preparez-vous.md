@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: tva-20
-  image: /wp-content/uploads/2023/08/tva-20.png
+image: wp-content/uploads/2023/08/tva-20.png
 date: "2023-08-11T03:50:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6159
 tag:

@@ -5,7 +5,7 @@ category:
   - coupons-réduction
 cover:
   alt: passeport-gourmand-genere-par-craiyon
-  image: /wp-content/uploads/2023/11/passeport-gourmand-genere-par-craiyon-2.png
+image: wp-content/uploads/2023/11/passeport-gourmand-genere-par-craiyon-2.png
 date: "2023-12-27T12:57:23+00:00"
 guid: https://commentgerersonbudget.fr/?p=6634
 tag:

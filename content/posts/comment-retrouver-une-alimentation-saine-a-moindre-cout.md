@@ -5,7 +5,7 @@ category:
   - courses
 cover:
   alt: Amap une alimentation saine
-  image: /wp-content/uploads/2023/05/amap-une-alimentation-saine-e1685395836772.png
+image: wp-content/uploads/2023/05/amap-une-alimentation-saine-e1685395836772.png
 date: "2023-05-29T21:30:01+00:00"
 guid: https://commentgerersonbudget.fr/?p=4122
 tag:

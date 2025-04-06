@@ -4,7 +4,7 @@ category:
   - cashback
 cover:
   alt: Être récompensé
-  image: /wp-content/uploads/2023/05/etre-recompense-igraal.png
+image: wp-content/uploads/2023/05/etre-recompense-igraal.png
 date: "2023-05-01T18:37:37+00:00"
 guid: https://commentgerersonbudget.fr/?p=2192
 tag:

@@ -5,7 +5,7 @@ category:
   - coupons-réduction
 cover:
   alt: Remboursement des produits du quotidien
-  image: /wp-content/uploads/2023/06/remboursement-des-produits-du-quotidien-e1686257707824.png
+image: wp-content/uploads/2023/06/remboursement-des-produits-du-quotidien-e1686257707824.png
 date: "2023-06-08T14:12:55+00:00"
 guid: https://commentgerersonbudget.fr/?p=4740
 tag:

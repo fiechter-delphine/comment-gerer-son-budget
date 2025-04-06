@@ -4,7 +4,7 @@ category:
   - coupons-réduction
 cover:
   alt: astuces
-  image: /wp-content/uploads/2023/07/pourquoi-un-blog-1-e1690810238662.png
+image: wp-content/uploads/2023/07/pourquoi-un-blog-1-e1690810238662.png
 date: "2023-08-04T03:33:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5981
 tag:

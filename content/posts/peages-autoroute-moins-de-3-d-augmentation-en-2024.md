@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: péage d'autoroute généré par craiyon
-  image: /wp-content/uploads/2023/11/peage-dautoroute-genere-par-craiyon-1.png
+image: wp-content/uploads/2023/11/peage-dautoroute-genere-par-craiyon-1.png
 date: "2023-12-13T12:56:16+00:00"
 guid: https://commentgerersonbudget.fr/?p=6637
 tag:

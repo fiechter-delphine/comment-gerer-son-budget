@@ -4,7 +4,7 @@ category:
   - contrôler-son-budget
 cover:
   alt: subvention
-  image: /wp-content/uploads/2023/07/subvention-2-e1689252530647.png
+image: wp-content/uploads/2023/07/subvention-2-e1689252530647.png
 date: "2023-10-18T12:02:40+00:00"
 guid: https://commentgerersonbudget.fr/?p=6472
 tag:

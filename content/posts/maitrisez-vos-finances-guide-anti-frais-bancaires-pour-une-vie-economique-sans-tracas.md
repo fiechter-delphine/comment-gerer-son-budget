@@ -4,7 +4,7 @@ category:
   - banque
 cover:
   alt: carte bleue généré par craiyon
-  image: /wp-content/uploads/2023/11/carte-bleue-genere-par-craiyon-1.png
+image: wp-content/uploads/2023/11/carte-bleue-genere-par-craiyon-1.png
 date: "2023-12-30T13:00:49+00:00"
 guid: https://commentgerersonbudget.fr/?p=6077
 tag:

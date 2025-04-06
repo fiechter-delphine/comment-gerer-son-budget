@@ -5,7 +5,7 @@ category:
   - coupons-réduction
 cover:
   alt: D chadrons - applications mobiles
-  image: /wp-content/uploads/2023/08/d-chadrons-applications-mobiles-1.png
+image: wp-content/uploads/2023/08/d-chadrons-applications-mobiles-1.png
 date: "2023-08-21T03:43:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6103
 tag:

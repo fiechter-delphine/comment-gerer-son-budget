@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: Diagnostic immobilier
-  image: /wp-content/uploads/2023/06/diagnostic-immobilier-e1687781554829.png
+image: wp-content/uploads/2023/06/diagnostic-immobilier-e1687781554829.png
 date: "2023-06-29T09:30:17+00:00"
 guid: https://commentgerersonbudget.fr/?p=5368
 tag:

@@ -5,7 +5,7 @@ category:
   - pouvoir-d'achat
 cover:
   alt: Aide mes droits sociaux
-  image: /wp-content/uploads/2023/06/aide-mes-droits-sociaux.png
+image: wp-content/uploads/2023/06/aide-mes-droits-sociaux.png
 date: "2023-06-09T13:22:35+00:00"
 guid: https://commentgerersonbudget.fr/?p=4620
 tag:

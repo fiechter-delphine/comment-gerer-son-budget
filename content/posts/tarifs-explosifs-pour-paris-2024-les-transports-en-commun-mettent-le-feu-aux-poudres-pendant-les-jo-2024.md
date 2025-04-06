@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: jo 2024 transport généré par craiyon
-  image: /wp-content/uploads/2023/11/jo-2024-transport-genere-par-craiyon.png
+image: wp-content/uploads/2023/11/jo-2024-transport-genere-par-craiyon.png
 date: "2023-12-10T13:02:29+00:00"
 guid: https://commentgerersonbudget.fr/?p=6656
 tag:

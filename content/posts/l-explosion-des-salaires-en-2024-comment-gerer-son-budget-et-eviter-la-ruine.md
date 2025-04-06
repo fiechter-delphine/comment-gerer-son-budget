@@ -4,7 +4,7 @@ category:
   - pouvoir-d'achat
 cover:
   alt: augmentation-salaire-1
-  image: /wp-content/uploads/2023/09/augmentation-salaire-1.png
+image: wp-content/uploads/2023/09/augmentation-salaire-1.png
 date: "2023-09-06T03:50:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6313
 tag:

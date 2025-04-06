@@ -4,7 +4,7 @@ category:
   - maîtriser-ses-dépenses
 cover:
   alt: I - Devenez un maître sorcier des finances et transformez votre budget en or !
-  image: /wp-content/uploads/2023/09/i-devenez-un-maitre-sorcier-des-finances-et-transformez-votre-budget-en-or.png
+image: wp-content/uploads/2023/09/i-devenez-un-maitre-sorcier-des-finances-et-transformez-votre-budget-en-or.png
 date: "2023-09-08T03:17:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=6111
 tag:

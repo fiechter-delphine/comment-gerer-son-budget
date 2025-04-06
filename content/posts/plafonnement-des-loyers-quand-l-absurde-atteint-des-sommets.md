@@ -4,7 +4,7 @@ category:
   - dernières-lois
 cover:
   alt: Plafonnement des loyers
-  image: /wp-content/uploads/2023/06/plafonnement-des-loyers.png
+image: wp-content/uploads/2023/06/plafonnement-des-loyers.png
 date: "2023-06-16T13:52:14+00:00"
 guid: https://commentgerersonbudget.fr/?p=4440
 tag:

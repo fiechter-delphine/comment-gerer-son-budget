@@ -4,7 +4,7 @@ category:
   - téléphone
 cover:
   alt: Revoir votre abonnement téléphonique
-  image: /wp-content/uploads/2023/05/revoir-votre-abonnement-telephonique-2.png
+image: wp-content/uploads/2023/05/revoir-votre-abonnement-telephonique-2.png
 date: "2023-05-02T11:14:05+00:00"
 guid: https://commentgerersonbudget.fr/?p=2469
 tag:

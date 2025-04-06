@@ -4,7 +4,7 @@ category:
   - cadeau
 cover:
   alt: Idées cadeaux pour la fête des pères
-  image: /wp-content/uploads/2023/06/idees-cadeaux-pour-la-fete-des-peres-e1686384178922.png
+image: wp-content/uploads/2023/06/idees-cadeaux-pour-la-fete-des-peres-e1686384178922.png
 date: "2023-06-10T07:55:55+00:00"
 guid: https://commentgerersonbudget.fr/?p=4386
 tag:

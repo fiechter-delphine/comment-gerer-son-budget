@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Acheter un lave-linge
-  image: /wp-content/uploads/2023/05/acheter-un-lave-linge-depenses-exceptionnelles-1.png
+image: wp-content/uploads/2023/05/acheter-un-lave-linge-depenses-exceptionnelles-1.png
 date: "2023-05-10T18:18:34+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=3070
 title: Ces dépenses exceptionnelles qui nous coûtent chères !

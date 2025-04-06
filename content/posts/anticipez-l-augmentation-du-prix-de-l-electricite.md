@@ -4,7 +4,7 @@ category:
   - energie
 cover:
   alt: Augmentation des tarifs de l'électricité
-  image: /wp-content/uploads/2023/07/augmentation-des-tarifs-de-lelectricite.png
+image: wp-content/uploads/2023/07/augmentation-des-tarifs-de-lelectricite.png
 date: "2023-07-23T20:00:00+00:00"
 guid: https://commentgerersonbudget.fr/?p=5842
 tag:

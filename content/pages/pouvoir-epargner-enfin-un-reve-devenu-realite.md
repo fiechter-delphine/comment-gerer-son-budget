@@ -2,7 +2,7 @@
 author: delphine.fiechter
 cover:
   alt: Faire des économies
-  image: /wp-content/uploads/2023/05/faire-des-economies.png
+image: wp-content/uploads/2023/05/faire-des-economies.png
 date: "2023-05-11T08:56:11+00:00"
 guid: https://commentgerersonbudget.fr/?page_id=3092
 title: Pouvoir épargner, enfin un rêve devenu réalité !

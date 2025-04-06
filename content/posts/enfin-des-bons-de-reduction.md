@@ -5,7 +5,7 @@ category:
   - cashback
 cover:
   alt: Bons de réduction- coupons de réductions
-  image: /wp-content/uploads/2023/06/bons-de-reduction-coupons-de-reduction-1.png
+image: wp-content/uploads/2023/06/bons-de-reduction-coupons-de-reduction-1.png
 date: "2023-06-03T09:09:10+00:00"
 guid: https://commentgerersonbudget.fr/?p=4428
 tag:
