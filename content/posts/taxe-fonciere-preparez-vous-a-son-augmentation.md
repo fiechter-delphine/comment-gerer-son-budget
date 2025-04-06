@@ -6,7 +6,7 @@ cover:
   alt: taxe-fonciere-en-hausse 1
 image: wp-content/uploads/2023/08/taxe-fonciere-en-hausse-1.png
 date: "2023-08-18T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6072
+guid: https://comment-gerer-son-budget.netlify.app//?p=6072
 tag:
   - habitation
   - pouvoir-d'achat

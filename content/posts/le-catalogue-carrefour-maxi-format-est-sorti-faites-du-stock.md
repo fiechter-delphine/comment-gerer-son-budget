@@ -7,7 +7,7 @@ cover:
   alt: Bon plan catalogue promo
 image: wp-content/uploads/2023/04/bon-plan-catalogue-promo.png
 date: "2023-04-30T16:52:03+00:00"
-guid: https://commentgerersonbudget.fr/?p=2190
+guid: https://comment-gerer-son-budget.netlify.app//?p=2190
 tag:
   - alimentation
   - maîtriser-ses-dépenses
@@ -46,16 +46,16 @@ Pour ce qui est des marques
 - **Mouchoirs KLEENEX 6 boites**: 25% d'économie
 - **Dentifrice signal** lot de 3 + 2eme à - 80 % : une réduction de 40 %
 
-N'hesitez pas à revenir vers moi, si vous rencontrez un problème de compréhension. Cliquez [ici](https://commentgerersonbudget.fr/contactez-moi/ "Contactez-moi").
+N'hesitez pas à revenir vers moi, si vous rencontrez un problème de compréhension. Cliquez [ici](https://comment-gerer-son-budget.netlify.app//contactez-moi/ "Contactez-moi").
 
 ## Vous voulez gagner encore plus de pouvoir d'achat ?
 
-Commencez par explorer ce [blog.](https://commentgerersonbudget.fr/ "blog.") Vous **pourrez trouver de nombreuses astuces** dans mes articles. Pour débuter, baladez-vous dans les onglets. De nouveaux contenus sont ajoutés régulièrement.
+Commencez par explorer ce [blog.](https://comment-gerer-son-budget.netlify.app// "blog.") Vous **pourrez trouver de nombreuses astuces** dans mes articles. Pour débuter, baladez-vous dans les onglets. De nouveaux contenus sont ajoutés régulièrement.
 
-Suivez le **[guide gra](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "") [tuit](https://commentgerersonbudget.fr/sujet/guide/ "tuit")**. Pas-à-pas, vous apprendrez comment gérer votre budget ! Ce guide vous apportera des solutions à mettre en œuvre pour vous aider à économiser sans vous priver .
+Suivez le **[guide gra](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "") [tuit](https://comment-gerer-son-budget.netlify.app//sujet/guide/ "tuit")**. Pas-à-pas, vous apprendrez comment gérer votre budget ! Ce guide vous apportera des solutions à mettre en œuvre pour vous aider à économiser sans vous priver .
 
-Grâce au [forum](https://commentgerersonbudget.fr/forums/ "forums") vous pourrez échanger avec d'autres internautes **.**
+Grâce au [forum](https://comment-gerer-son-budget.netlify.app//forums/ "forums") vous pourrez échanger avec d'autres internautes **.**
 
-Je suis également là pour vous conseiller. Il vous suffit de passer par le lien [contact](https://commentgerersonbudget.fr/contactez-moi/ "contactez-moi") dans l’onglet ou par tchat en bas à droite de votre écran. Je répondrai le plus rapidement possible à vos questions.
+Je suis également là pour vous conseiller. Il vous suffit de passer par le lien [contact](https://comment-gerer-son-budget.netlify.app//contactez-moi/ "contactez-moi") dans l’onglet ou par tchat en bas à droite de votre écran. Je répondrai le plus rapidement possible à vos questions.
 
 Maintenant, **bientôt, vous ne serez plus esclave de votre budget.** Vous tenez entre vos mains les clés de votre destin. 🤝

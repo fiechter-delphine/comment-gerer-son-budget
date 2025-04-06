@@ -6,7 +6,7 @@ cover:
   alt: Franchise médicale en hausse
 image: wp-content/uploads/2023/06/franchise-medicale-en-hausse-e1687335804920.png
 date: "2023-06-21T08:25:41+00:00"
-guid: https://commentgerersonbudget.fr/?p=5068
+guid: https://comment-gerer-son-budget.netlify.app//?p=5068
 tag:
   - pouvoir-d'achat
   - santé

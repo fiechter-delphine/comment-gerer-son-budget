@@ -7,7 +7,7 @@ cover:
   alt: B - comment économiser sur ses courses
 image: wp-content/uploads/2023/08/b-comment-economiser-sur-ses-courses.png
 date: "2023-08-11T03:19:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6099
+guid: https://comment-gerer-son-budget.netlify.app//?p=6099
 tag:
   - alimentation
   - courses

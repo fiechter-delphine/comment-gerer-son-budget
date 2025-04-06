@@ -6,7 +6,7 @@ cover:
   alt: livre
 image: wp-content/uploads/2023/10/livre.png
 date: "2023-10-08T11:27:17+00:00"
-guid: https://commentgerersonbudget.fr/?p=6464
+guid: https://comment-gerer-son-budget.netlify.app//?p=6464
 tag:
   - contrôler-son-budget
   - dernières-lois

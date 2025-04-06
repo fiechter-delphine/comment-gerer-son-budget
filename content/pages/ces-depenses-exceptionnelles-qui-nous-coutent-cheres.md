@@ -4,12 +4,12 @@ cover:
   alt: Acheter un lave-linge
 image: wp-content/uploads/2023/05/acheter-un-lave-linge-depenses-exceptionnelles-1.png
 date: "2023-05-10T18:18:34+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3070
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3070
 title: Ces dépenses exceptionnelles qui nous coûtent chères !
 url: /guide-les-depenses-exceptionnelles/
 
 ---
-Que dire sur ces dépenses exceptionnelles ? Elles peuvent vite **vous mettre dans l'embarras** et plonger votre compte [dans le rouge](https://commentgerersonbudget.fr/menages-dans-le-rouge/ "dans le rouge"). Elles peuvent vous obliger à annuler vos vacances ou à renoncer à la révision de votre voiture.😡
+Que dire sur ces dépenses exceptionnelles ? Elles peuvent vite **vous mettre dans l'embarras** et plonger votre compte [dans le rouge](https://comment-gerer-son-budget.netlify.app//menages-dans-le-rouge/ "dans le rouge"). Elles peuvent vous obliger à annuler vos vacances ou à renoncer à la révision de votre voiture.😡
 
 ## Alors comment gérer ces dépenses exceptionnelles ?
 
@@ -36,6 +36,6 @@ Bientôt, vous pourrez aller dans ce restaurant où vous n'êtes plus retourné(
 
 Mais comment épargner plus ? Passez à la rubrique suivante.
 
-[Précédent](https://commentgerersonbudget.fr/guide-les-frais-annuels "")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-les-frais-annuels "")
 
-[Suivant](https://commentgerersonbudget.fr/guide-pouvoir-epargner "pouvoir épargner")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-pouvoir-epargner "pouvoir épargner")

@@ -6,7 +6,7 @@ cover:
   alt: cb
 image: wp-content/uploads/2024/03/cb-jpg.webp
 date: "2024-03-02T10:24:03+00:00"
-guid: https://commentgerersonbudget.fr/?p=7148
+guid: https://comment-gerer-son-budget.netlify.app//?p=7148
 tag:
   - contrôler-son-budget
   - courses

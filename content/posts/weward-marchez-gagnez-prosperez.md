@@ -6,7 +6,7 @@ cover:
   alt: Être recompensé WeWard
 image: wp-content/uploads/2023/07/etre-recompense-weward.png
 date: "2023-07-20T12:22:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=5833
+guid: https://comment-gerer-son-budget.netlify.app//?p=5833
 tag:
   - cashback
   - pouvoir-d'achat
@@ -24,7 +24,7 @@ Le concept est simple : **plus vous marchez, plus vous accumulez de précieux "W
 
 ## Les astuces lucratives de WeWard : Enseignes payantes et cashback juteux !
 
-**WeWard a deux astuces pour se remplir les poches** : **les enseignes paient pour figurer sur leur carte** des lieux à visiter, et **vous gagnez des points bonus en les fréquentant**. Et, ils ont le système de cashback où vous pouvez obtenir des points supplémentaires en faisant vos achats chez leurs partenaires comme [iGraal](https://commentgerersonbudget.fr/etre-recompense-pour-avoir-depense-igraal/ "iGraal"). Vous combinez ça avec iGraal, et c'est le jackpot assuré !
+**WeWard a deux astuces pour se remplir les poches** : **les enseignes paient pour figurer sur leur carte** des lieux à visiter, et **vous gagnez des points bonus en les fréquentant**. Et, ils ont le système de cashback où vous pouvez obtenir des points supplémentaires en faisant vos achats chez leurs partenaires comme [iGraal](https://comment-gerer-son-budget.netlify.app//etre-recompense-pour-avoir-depense-igraal/ "iGraal"). Vous combinez ça avec iGraal, et c'est le jackpot assuré !
 
 Mais attention, voici la petite subtilité : **pour valider vos pas, vous devez garder l'application ouverte et appuyer sur le bouton "Valider mes pas" à la fin de la journée**. Pas de triche en modifiant simplement la date sur votre téléphone, c'est interdit ! **Ne ratez pas le coche, sinon tous vos efforts seront réduits à néant.** Alors, gardez le rythme et transformez vos pas en une véritable marche triomphante vers la fortune !
 

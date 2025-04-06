@@ -6,7 +6,7 @@ cover:
   alt: sangsus généré par craiyon
 image: wp-content/uploads/2023/11/sangsus-genere-par-craiyon-1.png
 date: "2023-12-23T12:51:44+00:00"
-guid: https://commentgerersonbudget.fr/?p=6075
+guid: https://comment-gerer-son-budget.netlify.app//?p=6075
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

@@ -6,7 +6,7 @@ cover:
   alt: trouver-un-billet-a-prix-reduit-1-e1690275448829
 image: wp-content/uploads/2023/07/trouver-un-billet-a-prix-reduit-1-e1690275448829-2.png
 date: "2023-07-25T08:54:34+00:00"
-guid: https://commentgerersonbudget.fr/?p=5914
+guid: https://comment-gerer-son-budget.netlify.app//?p=5914
 tag:
   - maîtriser-ses-dépenses
   - pouvoir-d'achat
@@ -28,7 +28,7 @@ Alors, préparez-vous à cette nouvelle occasion en or (ou plutôt en euro) et s
 
 ## Pour d'autres astuces
 
-Visite le blog, abonne-toi à la [newsletter](https://commentgerersonbudget.fr/popupbuilder/5890/ "S’abonner à la newsletter"), laisse toi emporter dans les vagues d'économies.
+Visite le blog, abonne-toi à la [newsletter](https://comment-gerer-son-budget.netlify.app//popupbuilder/5890/ "S’abonner à la newsletter"), laisse toi emporter dans les vagues d'économies.
 
 Voilà le dernier bon plan de comment gérer son budget ! Les habitants des Hauts-de-France vont avoir droit à une deuxième chance de saisir l'affaire du siècle avec ! **La SNCF déclare une véritable guerre des prix en mettant en vente [45 000 billets](https://www.francetvinfo.fr/decouverte/vacances/hauts-de-france-45-000-billets-de-ter-a-1-euros-mis-en-vente-ce-mardi_5970401.html "45 000 billet") de TER à seulement 1 euro**. Oui, vous avez bien entendu, **1 euro pour un voyage en TER du 1er au 27 août** ! C'est moins cher qu'un paquet de chewing-gum dans certaines boutiques.
 

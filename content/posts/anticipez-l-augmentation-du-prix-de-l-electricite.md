@@ -6,7 +6,7 @@ cover:
   alt: Augmentation des tarifs de l'électricité
 image: wp-content/uploads/2023/07/augmentation-des-tarifs-de-lelectricite.png
 date: "2023-07-23T20:00:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=5842
+guid: https://comment-gerer-son-budget.netlify.app//?p=5842
 tag:
   - energie
   - maîtriser-ses-dépenses
@@ -26,7 +26,7 @@ Tout d'abord, il est tellement satisfaisant de constater comment le gouvernement
 
 Ensuite, le gouvernement a l'audace de minimiser l'impact financier de cette explosion des factures d'électricité sur les consommateurs moins aisés. **Ils prétendent que les ménages qui se chauffent à l'électricité ne connaîtront "qu'UNE" augmentation moyenne de 160 euros par an**. Mais 160 € , C'est sur c'est peut-être même pas le prix de votre caviar du matin !
 
-Finalement, si on prend l'augmentation de février et la nouvelle, **les tarifs réglementés de vente auront déjà augmenté de 25 % en 2023**. Et comme d'habitude, nous devons nous agenouiller et supplier pour qu'il nous prolonge nos [chèques exceptionnels](https://commentgerersonbudget.fr/la-fin-imminente-des-cheques-exceptionnels/ "chèques exceptionnels") qu'il supprime doucement !
+Finalement, si on prend l'augmentation de février et la nouvelle, **les tarifs réglementés de vente auront déjà augmenté de 25 % en 2023**. Et comme d'habitude, nous devons nous agenouiller et supplier pour qu'il nous prolonge nos [chèques exceptionnels](https://comment-gerer-son-budget.netlify.app//la-fin-imminente-des-cheques-exceptionnels/ "chèques exceptionnels") qu'il supprime doucement !
 
 **Cette annonce surprise est faite bien sûr durant la période estivale** alors que tout le monde est occupé à se distraire. Félicitations, pour cette magnanime **déclaration qui ne fera qu'appauvrir nos porte-monnaie une fois de plus !**
 

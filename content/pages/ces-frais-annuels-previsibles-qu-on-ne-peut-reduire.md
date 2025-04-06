@@ -4,7 +4,7 @@ cover:
   alt: Entretien de la chaudière
 image: wp-content/uploads/2023/05/entretien-de-la-chaudiere-1.png
 date: "2023-05-11T11:37:41+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3068
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3068
 title: Ces frais annuels prévisibles qu'on ne peut réduire !
 url: /guide-les-frais-annuels/
 
@@ -43,6 +43,6 @@ C'est assez difficile d'évaluer la 1ère année le montant réel de nos charges
 
 Passons maintenant aux dernières dépenses.
 
-[Précédent](https://commentgerersonbudget.fr/guide-les-depenses-incontournables "les dépenses incontournables")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-les-depenses-incontournables "les dépenses incontournables")
 
 [Suivant](http://commentgerersonbudget.fr/guide-les-depenses-exceptionnelles/ "les depenses exceptionnelles")

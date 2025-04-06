@@ -6,7 +6,7 @@ cover:
   alt: argent liquide
 image: wp-content/uploads/2024/03/argent-liquide-jpg.webp
 date: "2024-03-30T13:17:46+00:00"
-guid: https://commentgerersonbudget.fr/?p=7179
+guid: https://comment-gerer-son-budget.netlify.app//?p=7179
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

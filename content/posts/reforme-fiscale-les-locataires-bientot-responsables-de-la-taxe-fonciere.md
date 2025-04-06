@@ -6,7 +6,7 @@ cover:
   alt: taxe foncière pour le locataire  généré par craiyon
 image: wp-content/uploads/2023/10/taxe-fonciere-pour-le-locataire-genere-par-craiyon-1.png
 date: "2023-11-11T11:45:19+00:00"
-guid: https://commentgerersonbudget.fr/?p=6534
+guid: https://comment-gerer-son-budget.netlify.app//?p=6534
 tag:
   - dernières-lois
   - habitation

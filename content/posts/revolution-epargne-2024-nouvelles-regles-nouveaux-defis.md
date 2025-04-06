@@ -6,7 +6,7 @@ cover:
   alt: épargner généré par craiyon
 image: wp-content/uploads/2024/01/epargner-genere-par-craiyon.png
 date: "2024-01-17T12:54:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6789
+guid: https://comment-gerer-son-budget.netlify.app//?p=6789
 tag:
   - banque
   - dernières-lois

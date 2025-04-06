@@ -7,7 +7,7 @@ cover:
   alt: basilic en pot
 image: wp-content/uploads/2023/09/basilic-en-pot-1.png
 date: "2023-10-03T15:36:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6398
+guid: https://comment-gerer-son-budget.netlify.app//?p=6398
 tag:
   - alimentation
   - maîtriser-ses-dépenses

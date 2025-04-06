@@ -8,7 +8,7 @@ cover:
   alt: wise
 image: wp-content/uploads/2023/10/wise-e1696102652298.png
 date: "2023-10-03T14:32:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6419
+guid: https://comment-gerer-son-budget.netlify.app//?p=6419
 tag:
   - banque
   - contrôler-son-budget

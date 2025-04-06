@@ -7,7 +7,7 @@ cover:
   alt: Application shopmium
 image: wp-content/uploads/2023/08/application-shopmium.png
 date: "2023-08-30T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6260
+guid: https://comment-gerer-son-budget.netlify.app//?p=6260
 tag:
   - alimentation
   - cashback

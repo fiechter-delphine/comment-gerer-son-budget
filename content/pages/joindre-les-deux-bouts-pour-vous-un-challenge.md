@@ -4,12 +4,12 @@ cover:
   alt: Joindre les deux bouts
 image: wp-content/uploads/2023/04/joindre-les-deux-bouts.png
 date: "2023-04-27T20:33:39+00:00"
-guid: https://commentgerersonbudget.fr/?p=683
+guid: https://comment-gerer-son-budget.netlify.app//?p=683
 title: Joindre les deux bouts, pour vous un challenge ?
 url: /guide-joindre-les-deux-bouts/
 
 ---
-Pas besoin de faire une dissertation sur les réelles **difficultés que rencontrent de nombreux foyers à joindre les deux bouts.** En effet, **avec [l'inflation](https://www.lafinancepourtous.com/2022/06/28/quel-est-limpact-de-linflation-sur-les-menages/ "l'inflation"), ce phénomène s'accroît**. Il devient difficile de ne pas finir son mois sans être [dans le rouge](https://commentgerersonbudget.fr/menages-dans-le-rouge/ "Ménages dans le rouge").🥴
+Pas besoin de faire une dissertation sur les réelles **difficultés que rencontrent de nombreux foyers à joindre les deux bouts.** En effet, **avec [l'inflation](https://www.lafinancepourtous.com/2022/06/28/quel-est-limpact-de-linflation-sur-les-menages/ "l'inflation"), ce phénomène s'accroît**. Il devient difficile de ne pas finir son mois sans être [dans le rouge](https://comment-gerer-son-budget.netlify.app//menages-dans-le-rouge/ "Ménages dans le rouge").🥴
 
 Chacun à sa manière cherche des solutions pour s'en sortir.
 
@@ -23,7 +23,7 @@ Eh oui, enfin un guide complet gratuit ! Accessible à tous, qui transmet les
 
 ### Alors quelles sont les solutions qui permettent de joindre les deux bouts ?
 
-![GUIDE joindre les deux bouts](https://commentgerersonbudget.fr/wp-content/uploads/2023/04/guide-joindre-les-deux-bouts-1024x789.png)
+![GUIDE joindre les deux bouts](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/04/guide-joindre-les-deux-bouts-1024x789.png)
 
 Je n'ai pas de solutions miracles, mais je vais vous aider à mieux gérer votre budget ! 😎
 
@@ -37,10 +37,10 @@ Ces articles présentent des phases faciles à suivre. Elles vous permettront d'
 
 #### Phase 1 : faire le bilan de l'année écoulée, étapes 1 à 4 :
 
-- 1- [**Explorer**](https://commentgerersonbudget.fr/guide-1-explorer-vos-depenses/ "explorer") : il est important de visualiser toutes vos dépenses pour comprendre les impacts sur votre budget.
-- 2- **[Catégoriser](https://commentgerersonbudget.fr/guide-2-categoriser-vos-depenses/ "catégoriser")**: j'ai créé 7 catégories qui vont vous permettre de classer vos différentes dépenses.
-- 3- **[Analyser](https://commentgerersonbudget.fr/guide-3-analyser-vos-depenses/ "") :** pour comprendre où vous pouvez agir.
-- 4- **[**Revo** ir](https://commentgerersonbudget.fr/guide-4-revoir-vos-depenses "")** : comprendre quelles sont exactement les actions que vous pouvez mener. Chaque chapitre fera un point complet sur chaque dépense.
+- 1- [**Explorer**](https://comment-gerer-son-budget.netlify.app//guide-1-explorer-vos-depenses/ "explorer") : il est important de visualiser toutes vos dépenses pour comprendre les impacts sur votre budget.
+- 2- **[Catégoriser](https://comment-gerer-son-budget.netlify.app//guide-2-categoriser-vos-depenses/ "catégoriser")**: j'ai créé 7 catégories qui vont vous permettre de classer vos différentes dépenses.
+- 3- **[Analyser](https://comment-gerer-son-budget.netlify.app//guide-3-analyser-vos-depenses/ "") :** pour comprendre où vous pouvez agir.
+- 4- **[**Revo** ir](https://comment-gerer-son-budget.netlify.app//guide-4-revoir-vos-depenses "")** : comprendre quelles sont exactement les actions que vous pouvez mener. Chaque chapitre fera un point complet sur chaque dépense.
 
 #### Phase 2 : estimer son budget, 5ème étape :
 
@@ -48,7 +48,7 @@ Ces articles présentent des phases faciles à suivre. Elles vous permettront d'
 
 Ainsi, toutes ces phases vont vous aider, entre autres, à **réduire**, à **prioriser** et à **anticiper** vos dépenses.
 
-**De nombreux bons plans et astuces** vous seront également communiqués. Ils compléteront ce guide. Vous pourrez les retrouver dans les onglets du menu. Cependant, pour être le premier(e) averti(e) des derniers bons plans et astuces, n'hésitez pas à vous abonner à la [newsletter](https://commentgerersonbudget.fr/s-abonner-a-la-newsletter/ "newsletter").
+**De nombreux bons plans et astuces** vous seront également communiqués. Ils compléteront ce guide. Vous pourrez les retrouver dans les onglets du menu. Cependant, pour être le premier(e) averti(e) des derniers bons plans et astuces, n'hésitez pas à vous abonner à la [newsletter](https://comment-gerer-son-budget.netlify.app//s-abonner-a-la-newsletter/ "newsletter").
 
 #### Phase 3 : dernière étape, suivre votre compte
 
@@ -62,6 +62,6 @@ Comme a dit Jean de la Bruyère :
 
 > _Il n'y a point de chemin trop long à qui marche lentement et sans se presser ; il n'y a point d'avantages trop éloignés à qui s'y prépare par la patience_.
 
-[Précédent](https://commentgerersonbudget.fr/guide-gratuit-comment-gerer-son-budget/ "Enfin un guide gratuit : comment gérer son budget ?")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-gratuit-comment-gerer-son-budget/ "Enfin un guide gratuit : comment gérer son budget ?")
 
-[Suivant](https://commentgerersonbudget.fr/guide-1-explorer-vos-depenses/ "")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-1-explorer-vos-depenses/ "")

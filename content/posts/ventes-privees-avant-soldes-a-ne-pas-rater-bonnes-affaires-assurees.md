@@ -6,7 +6,7 @@ cover:
   alt: ventes privées
 image: wp-content/uploads/2023/06/ventes-privees.png
 date: "2023-06-19T14:12:25+00:00"
-guid: https://commentgerersonbudget.fr/?p=5020
+guid: https://comment-gerer-son-budget.netlify.app//?p=5020
 tag:
   - coupons-réduction
   - maîtriser-ses-dépenses
@@ -21,7 +21,7 @@ Les ventes privées sont en cours depuis quelques jours. Ne les avez-vous pas re
 
 Avant de vous lancer, posez-vous la question : avez-vous anticipé ces dépenses ? Assurez-vous d'avoir les moyens nécessaires sans compromettre le paiement de vos factures. Évitez de mettre votre budget en péril simplement pour acquérir la robe de vos rêves. Gardez les pieds sur terre et résistez aux achats impulsifs.
 
-Si vous avez des dettes, il est d'autant plus important de ne pas succomber à l'envie d'acheter sans réfléchir. Soyez encore un peu patient(e) ! Suivez le [guide](https://commentgerersonbudget.fr/guide-5-calculer-son-budget/) qui vous mènera à votre quête tel un Indiana jones à la recherche du trésor perdu.
+Si vous avez des dettes, il est d'autant plus important de ne pas succomber à l'envie d'acheter sans réfléchir. Soyez encore un peu patient(e) ! Suivez le [guide](https://comment-gerer-son-budget.netlify.app//guide-5-calculer-son-budget/) qui vous mènera à votre quête tel un Indiana jones à la recherche du trésor perdu.
 
 ## Les ventes privées un occasion en or pour des affaires de folie et des réductions exclusives !
 

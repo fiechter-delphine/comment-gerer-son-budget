@@ -6,7 +6,7 @@ cover:
   alt: tva-20
 image: wp-content/uploads/2023/08/tva-20.png
 date: "2023-08-11T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6159
+guid: https://comment-gerer-son-budget.netlify.app//?p=6159
 tag:
   - dernières-lois
   - habitation
@@ -36,6 +36,6 @@ Alors **si vous êtes l'heureux propriétaire d'une maison** en attente d'un pet
 
 ## Rejoignez notre joyeuse communauté "comment gérer son budget avec le sourire" !
 
-**Inscrivez-vous à la [newsletter](https://commentgerersonbudget.fr/s-abonner-a-la-newsletter/ "S’abonner à la Newsletter") pour être le premier informé de toutes les nouvelles, décortiquées avec une pointe d'espièglerie !** Parce qu'après tout, un peu de rire, ça ne fait de mal à personne, bien au contraire ! Téléchargez vite mon guide gratuit pour trouver les astuces pour mieux gérer votre budget👇👇
+**Inscrivez-vous à la [newsletter](https://comment-gerer-son-budget.netlify.app//s-abonner-a-la-newsletter/ "S’abonner à la Newsletter") pour être le premier informé de toutes les nouvelles, décortiquées avec une pointe d'espièglerie !** Parce qu'après tout, un peu de rire, ça ne fait de mal à personne, bien au contraire ! Téléchargez vite mon guide gratuit pour trouver les astuces pour mieux gérer votre budget👇👇
 
-[Guide gratuit](https://commentgerersonbudget.fr/telecharger-gratuitement-le-guide-complet/)
+[Guide gratuit](https://comment-gerer-son-budget.netlify.app//telecharger-gratuitement-le-guide-complet/)

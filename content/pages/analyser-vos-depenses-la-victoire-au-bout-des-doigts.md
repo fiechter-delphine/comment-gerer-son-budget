@@ -4,7 +4,7 @@ cover:
   alt: Analyser vos dépenses
   image: wp-content/uploads/2023/04/analyser-vos-depenses.png
 date: "2023-04-25T11:39:10+00:00"
-guid: https://commentgerersonbudget.fr/?p=718
+guid: https://comment-gerer-son-budget.netlify.app//?p=718
 title: Analyser vos dépenses ! La victoire au bout des doigts !
 url: /guide-3-analyser-vos-depenses/
 
@@ -32,7 +32,7 @@ Mais voilà, **parfois c'est impossible !** Prenons comme exemple : vous voulez 
 - soit de vous y inscrire. Vous prenez le risque d'avoir des difficultés à payer le reste de vos factures.
 - soit de vous sacrifier et abandonner l'idée.
 
-![un homme doit choisir. Analyser vos dépenses pour vous aider à faire des économies](https://commentgerersonbudget.fr/wp-content/uploads/2023/05/analyser-vos-depenses-1-1024x637.png)
+![un homme doit choisir. Analyser vos dépenses pour vous aider à faire des économies](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/05/analyser-vos-depenses-1-1024x637.png)
 
 ### Quelle est donc la solution alors?
 
@@ -44,6 +44,6 @@ Essayer d' **économiser sur les autres dépenses.** Nous avons [besoin de nous 
 
 Êtes-vous prêt(e) pour payer votre abonnement à la salle de gym ?🤸‍♂️🏋️passer à l'étape suivante : revoir vos dépenses.
 
-[Précédent](https://commentgerersonbudget.fr/guide-2-categoriser-vos-depenses/ "catégoriser")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-2-categoriser-vos-depenses/ "catégoriser")
 
-[Suivant](https://commentgerersonbudget.fr/guide-4-revoir-vos-depenses/ "revoir")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-4-revoir-vos-depenses/ "revoir")

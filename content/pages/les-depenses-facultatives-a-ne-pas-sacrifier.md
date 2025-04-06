@@ -4,7 +4,7 @@ cover:
   alt: Cours de poterie, dépenses facultatives
 image: wp-content/uploads/2023/05/cours-de-poterie.png
 date: "2023-05-10T14:40:55+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3064
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3064
 title: Les dépenses facultatives à ne pas sacrifier !
 url: /guide-les-depenses-facultatives/
 
@@ -51,6 +51,6 @@ Un autre moyen pour acquérir une langue, **les applications mobiles**. Il en ex
 
 Passons maintenant aux dépenses courantes, dites "les indispensables".
 
-[Précédent](https://commentgerersonbudget.fr/guide-les-depenses-extras "Précédent")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-les-depenses-extras "Précédent")
 
-[Suivant](https://commentgerersonbudget.fr/guide-les-depenses-indispensables "Suivantles dépenses indispensables")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-les-depenses-indispensables "Suivantles dépenses indispensables")

@@ -6,7 +6,7 @@ cover:
   alt: Tarif réglementé du gaz
 image: wp-content/uploads/2023/06/tarif-reglemente-du-gaz.png
 date: "2023-06-27T06:15:34+00:00"
-guid: https://commentgerersonbudget.fr/?p=5424
+guid: https://comment-gerer-son-budget.netlify.app//?p=5424
 tag:
   - energie
   - habitation
@@ -39,7 +39,7 @@ Fais un tour sur **[le comparateur du médiateur de l'énergie](https://comparat
 
 Lis mon article sur le sujet 👇👇
 
-[Contrat d'Électricité](https://commentgerersonbudget.fr/reduire-sa-facture-delectricite/)
+[Contrat d'Électricité](https://comment-gerer-son-budget.netlify.app//reduire-sa-facture-delectricite/)
 
 ## Et toi, quelle est la solution gaz que tu as dénichée ?
 

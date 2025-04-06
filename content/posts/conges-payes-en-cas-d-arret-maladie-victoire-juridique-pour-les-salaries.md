@@ -6,7 +6,7 @@ cover:
   alt: congé payés - arret-maladie généré par craiyon
 image: wp-content/uploads/2023/11/conge-payes-arret-maladie-genere-par-craiyon.png
 date: "2023-11-15T12:11:32+00:00"
-guid: https://commentgerersonbudget.fr/?p=6563
+guid: https://comment-gerer-son-budget.netlify.app//?p=6563
 tag:
   - pièges-à-éviter
 title: 'Congés payés en cas d''arrêt-maladie : Victoire juridique pour les salariés'

@@ -6,7 +6,7 @@ cover:
   alt: Loi Lagleize
 image: wp-content/uploads/2023/06/loi-lagleize-e1687441715750.png
 date: "2023-06-23T07:58:57+00:00"
-guid: https://commentgerersonbudget.fr/?p=5088
+guid: https://comment-gerer-son-budget.netlify.app//?p=5088
 tag:
   - dernières-lois
   - habitation

@@ -1,7 +1,7 @@
 ---
 author: delphine.fiechter
 date: "2023-06-11T16:49:06+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=4920
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=4920
 title: "Télécharger gratuitement le tableau Excel imprimable ! \U0001F60D"
 url: /telecharger-le-tableau-excel-imprimable/
 

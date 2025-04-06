@@ -6,7 +6,7 @@ cover:
   alt: téléphone seconde main
 image: wp-content/uploads/2023/05/telephone-seconde-main-e1685385358925.png
 date: "2023-05-29T18:44:12+00:00"
-guid: https://commentgerersonbudget.fr/?p=4120
+guid: https://comment-gerer-son-budget.netlify.app//?p=4120
 tag:
   - téléphone
 title: Où acheter votre nouveau téléphone en seconde main !
@@ -63,4 +63,4 @@ De plus :
 
 N'attendez plus ! **Profitez de mon offre parrainage** pour **bénéficier d'une réduction de 15 €** sur votre premier achat ! Cliquez [ici](https://recommerce.mention-me.com/m/ol/bj9ty-ba823f9f57 "ici ") et faites votre choix !
 
-Pour c **onnaître d'autres astuces**, **baladez-vous sur [le blog,](https://commentgerersonbudget.fr/ "le blog,")** de nombreux conseils vous sont dévoilés qui vous seront utiles pour faire des économies !
+Pour c **onnaître d'autres astuces**, **baladez-vous sur [le blog,](https://comment-gerer-son-budget.netlify.app// "le blog,")** de nombreux conseils vous sont dévoilés qui vous seront utiles pour faire des économies !

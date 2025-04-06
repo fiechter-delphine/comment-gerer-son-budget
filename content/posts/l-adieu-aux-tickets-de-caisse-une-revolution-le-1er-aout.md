@@ -6,7 +6,7 @@ cover:
   alt: ticket de caisse par mail
 image: wp-content/uploads/2023/07/reserver-pour-votre-voyage-a-majorque-1.png
 date: "2023-07-27T18:45:53+00:00"
-guid: https://commentgerersonbudget.fr/?p=5932
+guid: https://comment-gerer-son-budget.netlify.app//?p=5932
 tag:
   - courses
   - maîtriser-ses-dépenses
@@ -42,4 +42,4 @@ Alors, en avant, braves guerriers du shopping malin ! **Soyez astucieux, soyez �
 
 Télachargez vite mon guide gratuit il sera un allier au quotidien ! 👇👇
 
-[Guide gratuit](https://commentgerersonbudget.fr/telecharger-gratuitement-le-guide-complet/)
+[Guide gratuit](https://comment-gerer-son-budget.netlify.app//telecharger-gratuitement-le-guide-complet/)

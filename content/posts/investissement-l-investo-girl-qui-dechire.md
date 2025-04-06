@@ -7,7 +7,7 @@ cover:
   alt: Investo-girl investir
 image: wp-content/uploads/2023/08/investo-girl-investir-1.png
 date: "2023-08-23T03:45:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6229
+guid: https://comment-gerer-son-budget.netlify.app//?p=6229
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

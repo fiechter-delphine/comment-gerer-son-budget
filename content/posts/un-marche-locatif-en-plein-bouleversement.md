@@ -6,7 +6,7 @@ cover:
   alt: Bien à louer
 image: wp-content/uploads/2023/07/bien-a-louer-e1688932208516.png
 date: "2023-08-02T03:35:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=5736
+guid: https://comment-gerer-son-budget.netlify.app//?p=5736
 tag:
   - habitation
 title: Un marché locatif en plein bouleversement

@@ -6,7 +6,7 @@ cover:
   alt: Plafonnement des loyers
 image: wp-content/uploads/2023/06/plafonnement-des-loyers.png
 date: "2023-06-16T13:52:14+00:00"
-guid: https://commentgerersonbudget.fr/?p=4440
+guid: https://comment-gerer-son-budget.netlify.app//?p=4440
 tag:
   - dernières-lois
   - habitation
@@ -47,4 +47,4 @@ Donnez votre avis dans les commentaires !
 
 ## Pour d'autres astuces sympas
 
-N'hésitez pas à visiter mon blog. Vous y trouverez notamment un super [guide gratuit](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/) pour gérer votre budget, mais aussi des actualités et des bons plans. On va pas se laisser abattre, on trouvera des solutions ensemble !
+N'hésitez pas à visiter mon blog. Vous y trouverez notamment un super [guide gratuit](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/) pour gérer votre budget, mais aussi des actualités et des bons plans. On va pas se laisser abattre, on trouvera des solutions ensemble !

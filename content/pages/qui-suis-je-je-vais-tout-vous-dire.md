@@ -4,7 +4,7 @@ cover:
   alt: Qui suis je ? Delphine
 image: wp-content/uploads/2023/04/Qui-suis-je.png
 date: "2023-04-26T20:07:24+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=1180
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=1180
 title: Qui suis-je ? Je vais tout vous dire !
 url: /qui-suis-je/
 
@@ -19,7 +19,7 @@ Je n'aime pas parler de moi, mais il me semble normal que vous compreniez qui je
 
 **Delphine**, passionnée des chiffres depuis mon plus jeune âge et des finances depuis de nombreuses années. Pour moi, les chiffres résonnent comme une mélodie dans ma tête. 🎵
 
-![qui suis-je](https://commentgerersonbudget.fr/wp-content/uploads/2023/04/Delphine-2-scaled-e1682802839628-150x150.jpg)
+![qui suis-je](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/04/Delphine-2-scaled-e1682802839628-150x150.jpg)
 
 Mais ce n'est pas cela qui m'a amené à écrire le blog, c'est mon vécu.
 
@@ -49,4 +49,4 @@ Dans un premier temps, nous avons revu ensemble leurs dépenses. Ensuite, nous 
 
 **Les résultats sont là ! Toutes ont vu leur pouvoir d’achat augmenter** et ils peuvent maintenant faire de belles économies. C’est grâce à leurs retours positifs, leurs sourires et les moments partagés qui m’ont donné envie d’ **écrire ce blog**.
 
-Alors, **n'hésitez plus un instant à visiter mon blog**. Vous y trouverez un [guide](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "guide ") gratuit, des [astuces](https://commentgerersonbudget.fr/sujet/astuces/ "astuces"), des [bons plans](https://commentgerersonbudget.fr/sujet/bons-plans/ "bons plan"), et des [sujets d'actualité](https://commentgerersonbudget.fr/sujet/actualites/ "sujets d'actualité"). Vous allez pouvoir à nouveau rêver.
+Alors, **n'hésitez plus un instant à visiter mon blog**. Vous y trouverez un [guide](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "guide ") gratuit, des [astuces](https://comment-gerer-son-budget.netlify.app//sujet/astuces/ "astuces"), des [bons plans](https://comment-gerer-son-budget.netlify.app//sujet/bons-plans/ "bons plan"), et des [sujets d'actualité](https://comment-gerer-son-budget.netlify.app//sujet/actualites/ "sujets d'actualité"). Vous allez pouvoir à nouveau rêver.

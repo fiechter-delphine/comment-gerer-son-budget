@@ -6,7 +6,7 @@ cover:
   alt: investir-dans-des-garages
 image: wp-content/uploads/2023/10/investir-dans-des-garages-2.png
 date: "2023-10-21T12:34:21+00:00"
-guid: https://commentgerersonbudget.fr/?p=6475
+guid: https://comment-gerer-son-budget.netlify.app//?p=6475
 tag:
   - pièges-à-éviter
 title: 'Pourquoi Investir dans un garage plutôt qu''un appartement : La stratégie gagnante d''Investo-Girl'

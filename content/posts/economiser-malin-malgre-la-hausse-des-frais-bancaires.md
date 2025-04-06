@@ -6,7 +6,7 @@ cover:
   alt: coffre généré par craiyon
 image: wp-content/uploads/2024/01/coffre-genere-par-craiyon.png
 date: "2024-02-07T14:19:19+00:00"
-guid: https://commentgerersonbudget.fr/?p=6845
+guid: https://comment-gerer-son-budget.netlify.app//?p=6845
 tag:
   - banque
   - maîtriser-ses-dépenses
@@ -23,7 +23,7 @@ Pouvoir d'achat en péril ? Pas de panique, les banques ont décidé d'organiser
 
 Premièrement, **évitez les escapades vers les distributeurs automatiques ennemis**. Si vous ne voulez pas voir votre banquier pleurer des larmes de 89 centimes chaque fois que vous retirez chez la concurrence, **restez fidèle à votre distributeur maison.** C'est comme un abonnement VIP à moindre coût pour votre argent.
 
-**Si l'idée de rester loyal à votre banque traditionnelle vous semble un peu trop old-school, pourquoi ne pas tenter l'aventure avec une banque en ligne ?** Comme [boursorama](https://commentgerersonbudget.fr/compte-sans-frais-boursorama/ ""), je vous en ai déjà parlé ! Elles sont tellement sympas qu'elles offrent des cartes bancaires gratuites ou presque, vous permettant de retirer des billets partout dans la zone euro, voire même au-delà. Vive la modernité !
+**Si l'idée de rester loyal à votre banque traditionnelle vous semble un peu trop old-school, pourquoi ne pas tenter l'aventure avec une banque en ligne ?** Comme [boursorama](https://comment-gerer-son-budget.netlify.app//compte-sans-frais-boursorama/ ""), je vous en ai déjà parlé ! Elles sont tellement sympas qu'elles offrent des cartes bancaires gratuites ou presque, vous permettant de retirer des billets partout dans la zone euro, voire même au-delà. Vive la modernité !
 
 ## **Chèques et offres de bienvenue : La comédie financière continue !**
 

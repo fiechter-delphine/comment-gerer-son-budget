@@ -6,7 +6,7 @@ cover:
   alt: Salle de sport
 image: wp-content/uploads/2023/07/salle-de-sport-e1688648111353.png
 date: "2023-07-09T16:30:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=5713
+guid: https://comment-gerer-son-budget.netlify.app//?p=5713
 tag:
   - maîtriser-ses-dépenses
   - pièges-à-éviter
@@ -46,4 +46,4 @@ Mais je vais vous confier un secret, entre nous. **Les bonnes résolutions, ça 
 
 Maintenant continue à prendre soin de toi, lis mon article comment avoir un soin gratuit du visage ! c'est par ici 👇👇
 
-[Soin du visage](https://commentgerersonbudget.fr/le-miroir-malefique-et-le-secret-beaute-gratuit-une-transformation-epique/)
+[Soin du visage](https://comment-gerer-son-budget.netlify.app//le-miroir-malefique-et-le-secret-beaute-gratuit-une-transformation-epique/)

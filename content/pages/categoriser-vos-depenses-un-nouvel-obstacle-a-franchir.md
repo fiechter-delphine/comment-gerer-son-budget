@@ -4,7 +4,7 @@ cover:
   alt: Catégoriser vos dépenses
 image: wp-content/uploads/2023/04/categoriser-vos-depenses-1.png
 date: "2023-04-28T18:34:10+00:00"
-guid: https://commentgerersonbudget.fr/?p=1680
+guid: https://comment-gerer-son-budget.netlify.app//?p=1680
 title: Catégoriser vos dépenses, un nouvel obstacle à franchir !
 url: /guide-2-categoriser-vos-depenses/
 
@@ -31,7 +31,7 @@ Découvrons ensemble la suite du scénario.
 
 Suivez les codes !
 
-![catégoriser vos dépenses c'est trié pour augmenter son pouvoir d'achat](https://commentgerersonbudget.fr/wp-content/uploads/2023/04/categoriser-vos-depenses-1024x640.png)
+![catégoriser vos dépenses c'est trié pour augmenter son pouvoir d'achat](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/04/categoriser-vos-depenses-1024x640.png)
 
 ### Les 2 premières catégories sont celles qui rongent le plus votre budget, ne vous laissant plus que les os : 🦴
 
@@ -62,6 +62,6 @@ Maintenant que vous êtes arrivé(e) jusque-là, faites une pause, mettez-vous d
 
 Mais avant de vous installer devant le petit écran, pensez à mettre dans vos favoris l'étape suivante.
 
-[Précédent](https://commentgerersonbudget.fr/guide-1-explorer-vos-depenses/ "")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-1-explorer-vos-depenses/ "")
 
-[Suivant](https://commentgerersonbudget.fr/guide-3-analyser-vos-depenses/ "3- Analysez vos dépenses ! la victoire au bout des doigts !")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-3-analyser-vos-depenses/ "3- Analysez vos dépenses ! la victoire au bout des doigts !")

@@ -4,7 +4,7 @@ cover:
   alt: Se sentir libre
 image: wp-content/uploads/2023/05/se-sentir-libre-2.png
 date: "2023-05-11T12:32:01+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3095
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3095
 title: Les extras, enfin cette bouffée d'air frais
 url: /guide-les-depenses-extras/
 
@@ -45,10 +45,10 @@ Ne pas hésiter à vous **inscrire sur des sites** tels que [Booking.com](http:/
 
 ## Pour plus de conseils et d'astuces
 
-N'hésitez pas à aller dans les onglets " [astuces](https://commentgerersonbudget.fr/sujet/astuces/ "astuces")" et " [bons plans](https://commentgerersonbudget.fr/sujet/bons-plans/ "bons plans")". Régulièrement, je sors de nouveaux articles pour vous aider à augmenter votre pouvoir d'achat !
+N'hésitez pas à aller dans les onglets " [astuces](https://comment-gerer-son-budget.netlify.app//sujet/astuces/ "astuces")" et " [bons plans](https://comment-gerer-son-budget.netlify.app//sujet/bons-plans/ "bons plans")". Régulièrement, je sors de nouveaux articles pour vous aider à augmenter votre pouvoir d'achat !
 
 Maintenant passons aux dépenses facultatives.
 
-[Précédant](https://commentgerersonbudget.fr/guide-4-revoir-vos-depenses "revoir vos dépenses")
+[Précédant](https://comment-gerer-son-budget.netlify.app//guide-4-revoir-vos-depenses "revoir vos dépenses")
 
-[Suivant](https://commentgerersonbudget.fr/guide-les-depenses-facultatives/ "")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-les-depenses-facultatives/ "")

@@ -7,7 +7,7 @@ cover:
   alt: Aide mes droits sociaux
 image: wp-content/uploads/2023/06/aide-mes-droits-sociaux.png
 date: "2023-06-09T13:22:35+00:00"
-guid: https://commentgerersonbudget.fr/?p=4620
+guid: https://comment-gerer-son-budget.netlify.app//?p=4620
 tag:
   - aides-sociales
   - pouvoir-d'achat
@@ -52,7 +52,7 @@ Alors autant essayer d'utiliser le système pour obtenir les aides dont vous ave
 
 Allez sur la page : [https://www.mesdroitssociaux.gouv.fr/](https://www.mesdroitssociaux.gouv.fr/)
 
-![logo des mes droits sociaux](https://commentgerersonbudget.fr/wp-content/uploads/2023/06/mes-droits-sociaux.png)Découvrez vite ce nouveau site du gouvernement qui répertorie les différentes aides sociales !
+![logo des mes droits sociaux](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/06/mes-droits-sociaux.png)Découvrez vite ce nouveau site du gouvernement qui répertorie les différentes aides sociales !
 
 **Identifiez -vous** avec FranceConnect.
 

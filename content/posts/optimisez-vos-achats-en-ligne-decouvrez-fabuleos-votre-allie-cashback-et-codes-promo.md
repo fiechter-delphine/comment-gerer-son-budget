@@ -7,7 +7,7 @@ cover:
   alt: Cashback
 image: wp-content/uploads/2023/08/cashback.png
 date: "2023-09-01T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6117
+guid: https://comment-gerer-son-budget.netlify.app//?p=6117
 tag:
   - alimentation
   - coupons-réduction

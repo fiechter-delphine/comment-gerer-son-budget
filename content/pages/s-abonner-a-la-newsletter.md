@@ -1,7 +1,7 @@
 ---
 author: delphine.fiechter
 date: "2023-04-22T08:17:03+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=260
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=260
 title: S'abonner à la Newsletter
 url: /s-abonner-a-la-newsletter/
 

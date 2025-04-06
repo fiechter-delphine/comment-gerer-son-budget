@@ -10,7 +10,7 @@ image: wp-content/uploads/2024/03/livret-a.jpg
 # cover: wp-content/uploads/2024/03/livret-a.jpg
 # image: "/wp-content/uploads/2024/03/livret-a-jpg"
 date: "2024-04-04T21:23:39+00:00"
-guid: https://commentgerersonbudget.fr/?p=7211
+guid: https://comment-gerer-son-budget.netlify.app//?p=7211
 tag:
   - maîtriser-ses-dépenses
   - pièges-à-éviter

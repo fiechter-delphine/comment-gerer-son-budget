@@ -7,7 +7,7 @@ cover:
   alt: courses alimentaires
 image: wp-content/uploads/2023/08/courses-alimentaires-1.png
 date: "2023-08-09T03:35:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6095
+guid: https://comment-gerer-son-budget.netlify.app//?p=6095
 tag:
   - alimentation
   - courses
@@ -33,7 +33,7 @@ Pour économiser tout en faisant preuve de malice, **éloignez-vous des supermar
 
 En avant, jeunes sorciers de l'économie ! **Demandez votre ticket magique, vérifiez vos achats, et combattez les arnaques avec fougue** ! En route vers la victoire ! 😄
 
-[Demandez votre ticket](https://commentgerersonbudget.fr/ladieu-aux-tickets-de-caisse-une-revolution-le-1er-aout/)
+[Demandez votre ticket](https://comment-gerer-son-budget.netlify.app//ladieu-aux-tickets-de-caisse-une-revolution-le-1er-aout/)
 
 **Pour éviter les sorts sombres à la caisse, vous pouvez même jouer les détectives ensorcelés en faisant vos courses en ligne**. Le supermarché virtuel sera votre terrain de jeu magique, et vous pourrez dénicher les potions magiques à prix doux sans enchanter votre budget. C'est comme une chasse aux trésors dans le monde magique de l'internet !
 

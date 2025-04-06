@@ -6,7 +6,7 @@ cover:
   alt: calendrier
 image: wp-content/uploads/2023/09/calendrier-1.png
 date: "2023-09-30T18:32:06+00:00"
-guid: https://commentgerersonbudget.fr/?p=6389
+guid: https://comment-gerer-son-budget.netlify.app//?p=6389
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

@@ -6,7 +6,7 @@ cover:
   alt: loi supers promos
 image: wp-content/uploads/2024/02/loi-supers-promos-jpg.webp
 date: "2024-02-16T14:47:07+00:00"
-guid: https://commentgerersonbudget.fr/?p=7135
+guid: https://comment-gerer-son-budget.netlify.app//?p=7135
 tag:
   - contrôler-son-budget
   - dernières-lois

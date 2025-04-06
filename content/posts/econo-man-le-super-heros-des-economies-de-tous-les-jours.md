@@ -9,7 +9,7 @@ cover:
   alt: econo-man
 image: wp-content/uploads/2023/09/econo-man.png
 date: "2023-10-05T15:02:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6385
+guid: https://comment-gerer-son-budget.netlify.app//?p=6385
 tag:
   - alimentation
   - coupons-réduction
@@ -45,4 +45,4 @@ Découvre dans cet article **les méthodes employées pour faire des économies*
 
 **Suivez ce lien pour lire mon article sur le compte multi-devises** 👇👇👇👇
 
-[Compte multi-devises](https://commentgerersonbudget.fr/wise-la-revolution-des-transferts-dargent-ou-comment-ne-pas-perdre-son-pantalon-a-letranger)
+[Compte multi-devises](https://comment-gerer-son-budget.netlify.app//wise-la-revolution-des-transferts-dargent-ou-comment-ne-pas-perdre-son-pantalon-a-letranger)

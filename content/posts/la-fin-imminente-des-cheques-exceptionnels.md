@@ -6,7 +6,7 @@ cover:
   alt: Fin des aides exceptionnelles
 image: wp-content/uploads/2023/07/fin-des-aides-exceptionnelles-e1689620983822.png
 date: "2023-07-18T08:25:06+00:00"
-guid: https://commentgerersonbudget.fr/?p=5811
+guid: https://comment-gerer-son-budget.netlify.app//?p=5811
 tag:
   - energie
   - pouvoir-d'achat
@@ -26,7 +26,7 @@ Dites adieu aux dernières miettes qu'ils nous laissaient. **Dites adieu au chè
 
 Je suis totalement stupéfaite par la perspicacité de nos dirigeants, je ne peux pas le croire. Au **lieu d'explorer des solutions plus justes pour réduire cette maudite dette publique, ils ont simplement décidé de supprimer les aides destinées aux personnes les plus vulnérables**. C'est une logique implacable, n'est-ce pas ? Je leur tire mon chapeau et leur offre une standing ovation pour cette idée absolument géniale !
 
-Revoyez votre budget pour l'année à venir, anticipez, ne vous laissez pas surprendre ! Consultez vite le [E-book](https://commentgerersonbudget.fr/telecharger-gratuitement-le-guide-complet/) GRATUIT si vous ne l'avez pas encore téléchargé, pour trouver des astuces pour mieux gérer vtre budget !
+Revoyez votre budget pour l'année à venir, anticipez, ne vous laissez pas surprendre ! Consultez vite le [E-book](https://comment-gerer-son-budget.netlify.app//telecharger-gratuitement-le-guide-complet/) GRATUIT si vous ne l'avez pas encore téléchargé, pour trouver des astuces pour mieux gérer vtre budget !
 
 Ici la vidéo qui vous explique tout, qui vous donne le ton pour les années à venir ! 👇👇
 

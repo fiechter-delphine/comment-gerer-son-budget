@@ -4,7 +4,7 @@ cover:
   alt: Guide gratuit
 image: wp-content/uploads/2023/05/guide-gratuit-5.png
 date: "2023-05-02T17:04:41+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=2611
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=2611
 title: 'Enfin un guide gratuit : comment gérer son budget ?'
 url: /guide-gratuit-comment-gerer-son-budget/
 
@@ -13,11 +13,11 @@ En cette période dictée par l'inflation, beaucoup de personnes se posent la qu
 
 Il vous aidera à augmenter votre pouvoir d'achat et à dépenser moins au quotidien. Alors pour commencer, je peux déjà vous dire que **ce ne sera jamais une encyclopédie** en plusieurs volumes. Jeune, j'ai connu les " _universalis_" qui remplissait mon étagère. Et la dernière fois que j'en ai vu une, c'était à la déchetterie ! Alors ce n'est sûrement pas pour la ressortir !🫠
 
-**Le guide que j'ai conçu, est simple et facile à suivre**. Je l'ai découpé en plusieurs phases pour qu'il soit plus agréable à lire. Je l'ai réalisé au fur et à mesure en fonction de mes découvertes, et bien sûr, il reste modifiable. Alors n'hésitez pas à me faire des retours en me laissant un message sur ma page " [contactez moi](https://commentgerersonbudget.fr/contactez-moi/ "")."
+**Le guide que j'ai conçu, est simple et facile à suivre**. Je l'ai découpé en plusieurs phases pour qu'il soit plus agréable à lire. Je l'ai réalisé au fur et à mesure en fonction de mes découvertes, et bien sûr, il reste modifiable. Alors n'hésitez pas à me faire des retours en me laissant un message sur ma page " [contactez moi](https://comment-gerer-son-budget.netlify.app//contactez-moi/ "")."
 
 Pour obtenir plus de pouvoir d'achat, je vous transmets des solutions pour franchir les obstacles comme un jeu d'enfant !
 
-![guide gratuit, un homme franchi en sautant au dessus des obstacles](https://commentgerersonbudget.fr/wp-content/uploads/2023/05/guide-gratuit-4-1024x809.png)
+![guide gratuit, un homme franchi en sautant au dessus des obstacles](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/05/guide-gratuit-4-1024x809.png)
 
 ## Mais pas seulement !
 
@@ -33,4 +33,4 @@ C'est un guide vivant, je le mettrais à jour suivant l'actualité qui modifie s
 
 Explorez le dès à présent !
 
-[Suivant](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "Joindre les deux bouts, pour vous un challenge ?")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "Joindre les deux bouts, pour vous un challenge ?")

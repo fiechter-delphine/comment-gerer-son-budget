@@ -6,7 +6,7 @@ cover:
   alt: Compte dans le rouge
 image: wp-content/uploads/2023/04/compte-dans-le-rouge.png
 date: "2023-04-25T07:26:25+00:00"
-guid: https://commentgerersonbudget.fr/?p=696
+guid: https://comment-gerer-son-budget.netlify.app//?p=696
 tag:
   - banque
 title: Combien de ménages chaque mois dans le rouge ?
@@ -15,7 +15,7 @@ url: /menages-dans-le-rouge/
 ---
 Nombreux sont les français **chaque mois** **dans le rouge !** **[Nous sommes 47 %](https://www.bfmtv.com/economie/entreprises/assurance-banque/47-des-francais-dans-le-rouge-le-decouvert-moyen-augmente-legerement-en-2022-a-239-euros_AN-202210110291.html "Nous somme 47 %")** environ à être concernés, soit presque **un Français sur 2.** **Et cela dès le 15 du mois**.
 
-Il n'est pas rare que l'on dépasse le découvert autorisé. Cela **engendre des frais bancaires** qui font vite monter la facture. Cependant, ces frais ne sont pas cités par les Français comme l'une des premières causes dans l'impossibilité de [joindre les deux bouts](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "guide - Joindre les deux bouts,").
+Il n'est pas rare que l'on dépasse le découvert autorisé. Cela **engendre des frais bancaires** qui font vite monter la facture. Cependant, ces frais ne sont pas cités par les Français comme l'une des premières causes dans l'impossibilité de [joindre les deux bouts](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "guide - Joindre les deux bouts,").
 
 Selon des sondages, nous pointons **l'inflation** : avec des fins de mois difficiles, faire **ses courses 🛒 devient un vrai casse-tête**. Mais également les salaires qui n'augmentent pas ou plus. 😒
 
@@ -35,7 +35,7 @@ Alors si les frais bancaires représentent moins de 1 % du budget mensuel des m�
 
 ## Mais alors, faites-vous encore des projets ?
 
-![personne qui fais des reves quand ils ne seront plus dans le rouge , projets](https://commentgerersonbudget.fr/wp-content/uploads/2023/04/dans-le-rouge-2-1024x640.png)
+![personne qui fais des reves quand ils ne seront plus dans le rouge , projets](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/04/dans-le-rouge-2-1024x640.png)
 
 Selon les sondages, **95 % des Français souffrent d'anxiété**, ce qui engendre une certaine difficulté à croire en un avenir meilleur. Si nous sommes anxieux, nous avons une tendance naturelle à freiner nos envies et on ne fait plus de projets.
 
@@ -45,10 +45,10 @@ Le fait que nous ne faisons **plus de projets** est révélateur d' **un mal pro
 
 Vous en avez **marre** de faire partie de la moitié des Français **dans le rouge** ?
 
-Commencez par **explorer ce [blog](https://commentgerersonbudget.fr/ "blog").** Vous **pourrez trouver de nombreuses astuces** dans mes articles. Pour débuter, baladez-vous dans les onglets. De nouveaux contenus sont ajoutés régulièrement.
+Commencez par **explorer ce [blog](https://comment-gerer-son-budget.netlify.app// "blog").** Vous **pourrez trouver de nombreuses astuces** dans mes articles. Pour débuter, baladez-vous dans les onglets. De nouveaux contenus sont ajoutés régulièrement.
 
-J'ai créé un [guide](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "") facile à suivre, qui vous apportera des solutions à mettre en place pour vous aider à contrôler votre budget et maîtriser vos dépenses !
+J'ai créé un [guide](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "") facile à suivre, qui vous apportera des solutions à mettre en place pour vous aider à contrôler votre budget et maîtriser vos dépenses !
 
-De plus, **pour ne plus vous sentir seul(e)**, j'ai mis en place un **[forum](https://commentgerersonbudget.fr/forums/ "forums")**, un lien de **[contact](https://commentgerersonbudget.fr/contactez-moi/ "contactez-moi")** et un tchat.
+De plus, **pour ne plus vous sentir seul(e)**, j'ai mis en place un **[forum](https://comment-gerer-son-budget.netlify.app//forums/ "forums")**, un lien de **[contact](https://comment-gerer-son-budget.netlify.app//contactez-moi/ "contactez-moi")** et un tchat.
 
 Maintenant, votre destin est entre vos mains. Il ne vous reste plus qu'à " **_prendre_** _**le taureau par les cornes"**_, et je vous garantis que _**"le jeu en vaut la chandelle"**_. 💪

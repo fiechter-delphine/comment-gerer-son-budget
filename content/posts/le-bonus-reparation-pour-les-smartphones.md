@@ -6,7 +6,7 @@ cover:
   alt: logo qualirépar
 image: wp-content/uploads/2023/10/logo-qualirepar.png
 date: "2023-10-25T09:45:40+00:00"
-guid: https://commentgerersonbudget.fr/?p=6446
+guid: https://comment-gerer-son-budget.netlify.app//?p=6446
 tag:
   - contrôler-son-budget
   - dernières-lois

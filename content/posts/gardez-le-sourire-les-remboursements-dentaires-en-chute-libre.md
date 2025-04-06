@@ -6,7 +6,7 @@ cover:
   alt: gardez le sourire, remboursement frais dentaires
 image: wp-content/uploads/2023/06/gardez-le-sourire-remboursement-frais-dentaires-e1687263623733.png
 date: "2023-06-20T12:29:39+00:00"
-guid: https://commentgerersonbudget.fr/?p=5058
+guid: https://comment-gerer-son-budget.netlify.app//?p=5058
 tag:
   - maîtriser-ses-dépenses
   - pouvoir-d'achat

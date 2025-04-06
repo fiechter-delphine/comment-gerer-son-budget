@@ -7,7 +7,7 @@ cover:
   alt: bouteille dans réservoir
 image: wp-content/uploads/2023/09/bouteille-dans-reservoir.png
 date: "2023-10-05T12:35:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6439
+guid: https://comment-gerer-son-budget.netlify.app//?p=6439
 tag:
   - alimentation
   - contrôler-son-budget

@@ -7,7 +7,7 @@ cover:
   alt: 28 Bons de réduction- coupons de réduction
 image: wp-content/uploads/2023/06/28-bons-de-reduction-coupons-de-reduction-e1685952063431.png
 date: "2023-06-05T08:13:39+00:00"
-guid: https://commentgerersonbudget.fr/?p=4444
+guid: https://comment-gerer-son-budget.netlify.app//?p=4444
 tag:
   - alimentation
   - cashback
@@ -24,7 +24,7 @@ Aujourd'hui c'est
 
 👉👉 **28 coupons** sur 👉👉 **28 produits**, Toujours merci iGraal😍 !
 
-SI vous ne connaissez pas iGraal, lisez mon [article](https://commentgerersonbudget.fr/etre-recompense-pour-avoir-depense-igraal/ "article") sur le sujet je vous dévoile tout, et profitez de mon [offre de parrainage](https://fr.igraal.com/parrainage?parrain=AG_5e9b4975de6cb "offre de parrainage") !
+SI vous ne connaissez pas iGraal, lisez mon [article](https://comment-gerer-son-budget.netlify.app//etre-recompense-pour-avoir-depense-igraal/ "article") sur le sujet je vous dévoile tout, et profitez de mon [offre de parrainage](https://fr.igraal.com/parrainage?parrain=AG_5e9b4975de6cb "offre de parrainage") !
 
 **Aujourd'hui 10 € offert,** cliquez ici
 

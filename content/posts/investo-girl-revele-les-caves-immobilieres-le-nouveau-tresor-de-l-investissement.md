@@ -7,7 +7,7 @@ cover:
   alt: Investir dans une cave
 image: wp-content/uploads/2023/09/investir-dans-une-cave-1.png
 date: "2023-09-04T03:15:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6296
+guid: https://comment-gerer-son-budget.netlify.app//?p=6296
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

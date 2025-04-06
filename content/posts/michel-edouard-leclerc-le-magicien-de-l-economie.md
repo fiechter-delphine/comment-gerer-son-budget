@@ -6,7 +6,7 @@ cover:
   alt: michel-edouard-leclerc
 image: wp-content/uploads/2023/09/michel-edouard-leclerc.png
 date: "2023-09-08T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6331
+guid: https://comment-gerer-son-budget.netlify.app//?p=6331
 tag:
   - alimentation
   - contrôler-son-budget

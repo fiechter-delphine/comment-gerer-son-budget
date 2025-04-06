@@ -7,7 +7,7 @@ cover:
   alt: Sorcière et son chaudron
 image: wp-content/uploads/2023/08/sorciere-et-son-chaudron-1.png
 date: "2023-08-07T03:45:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6124
+guid: https://comment-gerer-son-budget.netlify.app//?p=6124
 tag:
   - alimentation
   - contrôler-son-budget
@@ -40,7 +40,7 @@ Mais ne vous inquiétez pas, tout au long de mes articles, je vais vous transmet
 1. Luttez contre les voleurs d'or : **gardez un œil sur vos dépenses et évitez les abonnements inutiles.**
 1. Soyez courageux, ne dépensez pas comme un gobelin devant un trésor : **priorisez vos besoins essentiels avant de céder aux tentations.**
 1. Enfin, **ayez toujours un parchemin d'épargne :** mettez de côté un peu chaque mois, ça vous sauvera en cas de sortilège imprévu !
-1. **Téléchargez mon [e-book](https://commentgerersonbudget.fr/telecharger-gratuitement-le-guide-complet/ "e-book") enchanté** "comment gérer son budget" qui vous servira de livre de chevet ! 🥳
+1. **Téléchargez mon [e-book](https://comment-gerer-son-budget.netlify.app//telecharger-gratuitement-le-guide-complet/ "e-book") enchanté** "comment gérer son budget" qui vous servira de livre de chevet ! 🥳
 
 Voilà, avec ces tours de magie budgétaire, vous devriez éviter les sorts financiers les plus embêtants et **vivre votre vie comme un véritable sorcier de l'économie**!
 

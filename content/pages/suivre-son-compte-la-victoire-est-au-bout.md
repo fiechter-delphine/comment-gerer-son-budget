@@ -4,7 +4,7 @@ cover:
   alt: Suivre son compte
 image: wp-content/uploads/2023/05/suivre-son-compte-pour-conroler-son-budget-1.png
 date: "2023-05-11T19:58:11+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3232
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3232
 title: Suivre son compte, la victoire est au bout !
 url: /guide-suivre-son-compte/
 
@@ -46,7 +46,7 @@ En plus, l'application **vous indiquera le solde de votre compte**. Elle sera *
 
 Elle est créée suivant l'expérience que j'ai sur le suivi de compte. J'ai passé beaucoup de temps à gérer mon budget. J'élabore **cette application en fonction des besoins que j'attends**.
 
-Restez informé(e) de sa sortie proche en vous abonnant à la [newsletter](https://commentgerersonbudget.fr/s-abonner-a-la-newsletter/ ""). Je ne peux pas encore vous dire quand elle sera inaugurée, mais tout doucement elle se construit.
+Restez informé(e) de sa sortie proche en vous abonnant à la [newsletter](https://comment-gerer-son-budget.netlify.app//s-abonner-a-la-newsletter/ ""). Je ne peux pas encore vous dire quand elle sera inaugurée, mais tout doucement elle se construit.
 
 ## Ça y est, vous êtes arrivé(e) au bout de ce guide !
 
@@ -58,7 +58,7 @@ Je reste joignable par tchat ou par mail, si vous avez des questions ou des sugg
 
 Vous pouvez télécharger ce guide gratuitement pour l'avoir toujours sous la main, Cliquez ici 👇👇
 
-[Télécharger le guide](https://commentgerersonbudget.fr/telecharger-gratuitement-le-guide-complet/)
+[Télécharger le guide](https://comment-gerer-son-budget.netlify.app//telecharger-gratuitement-le-guide-complet/)
 
 ## Derniers conseils
 
@@ -70,4 +70,4 @@ Il faut un peu de temps pour pouvoir évaluer votre travail et gagner en pouvoir
 
 Si vous ne surveillez pas votre compte, si vous ne réajuster pas votre budget ou que vous ne revoyez pas vos abonnements par exemple, vous pourriez vite ne plus maîtriser votre budget.
 
-[Précédent](https://commentgerersonbudget.fr/guide-5-calculer-son-budget "calculer son budget")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-5-calculer-son-budget "calculer son budget")

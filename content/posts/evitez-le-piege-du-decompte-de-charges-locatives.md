@@ -6,7 +6,7 @@ cover:
   alt: Déménagement, charges locatives
 image: wp-content/uploads/2023/06/demenagement-charges-locatives-e1686931099743.png
 date: "2023-06-23T08:56:53+00:00"
-guid: https://commentgerersonbudget.fr/?p=4866
+guid: https://comment-gerer-son-budget.netlify.app//?p=4866
 tag:
   - habitation
 title: Évitez le piège du décompte de charges locatives !
@@ -47,4 +47,4 @@ Maintenant, partez à l'aventure et récupérez votre trésor caché dans le dé
 
 Et n'oubliez pas de consulter mon guide gratuit pour devenir un champion de la gestion de budget 👇👇
 
-[Guide complet](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/)
+[Guide complet](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/)

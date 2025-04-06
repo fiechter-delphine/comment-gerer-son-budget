@@ -6,7 +6,7 @@ cover:
   alt: Urgences de Strasbourg
 image: wp-content/uploads/2023/07/urgences-de-strasbourg-e1688201068918.png
 date: "2023-07-01T08:57:51+00:00"
-guid: https://commentgerersonbudget.fr/?p=5602
+guid: https://comment-gerer-son-budget.netlify.app//?p=5602
 tag:
   - santé
 title: 'Urgences de Strasbourg : effondrement du système de santé'
@@ -25,7 +25,7 @@ Pourquoi une telle situation ? Simplement par **manque de place, la suppression 
 
 **La situation est vraiment devenue catastrophique ! Prépare-toi, car le gouvernement va privatiser la santé dans les années à venir !**
 
-Si tu n'as pas vu mes articles sur l' **augmentation de la [franchise médicale](https://commentgerersonbudget.fr/franchise-medicale-bercy-degaine-une-nouvelle-hausse/ "franchise médicale")** ou l **a diminution du remboursement des** [**soins dentaires**](https://commentgerersonbudget.fr/gardez-le-sourire-les-remboursements-dentaires-en-chute-libre/ "soins dentaires ") pour octobre, lis-les vite ! Cela est révélateur du plan prévu par le gouvernement, et il **va impacter ton budget, ne te laisse pas surprendre !**
+Si tu n'as pas vu mes articles sur l' **augmentation de la [franchise médicale](https://comment-gerer-son-budget.netlify.app//franchise-medicale-bercy-degaine-une-nouvelle-hausse/ "franchise médicale")** ou l **a diminution du remboursement des** [**soins dentaires**](https://comment-gerer-son-budget.netlify.app//gardez-le-sourire-les-remboursements-dentaires-en-chute-libre/ "soins dentaires ") pour octobre, lis-les vite ! Cela est révélateur du plan prévu par le gouvernement, et il **va impacter ton budget, ne te laisse pas surprendre !**
 
 **Les complémentaires santé vont augmenter leurs tarifs,** les cotisations sociales vont augmenter, suit bien ta fiche de salaire fin juillet ! Ils parlent partout qu'elle va changer, c'est souvent à ce moment là que les cotisations augmentent sans t'en apercevoir !
 

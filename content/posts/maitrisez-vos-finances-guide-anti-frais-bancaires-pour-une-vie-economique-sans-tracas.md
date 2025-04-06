@@ -6,7 +6,7 @@ cover:
   alt: carte bleue généré par craiyon
 image: wp-content/uploads/2023/11/carte-bleue-genere-par-craiyon-1.png
 date: "2023-12-30T13:00:49+00:00"
-guid: https://commentgerersonbudget.fr/?p=6077
+guid: https://comment-gerer-son-budget.netlify.app//?p=6077
 tag:
   - banque
   - maîtriser-ses-dépenses

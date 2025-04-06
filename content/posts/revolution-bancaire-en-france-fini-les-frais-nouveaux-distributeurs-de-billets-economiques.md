@@ -6,7 +6,7 @@ cover:
   alt: nouveau distributeur
 image: wp-content/uploads/2024/03/nouveau-districuteur-1-jpg.webp
 date: "2024-03-16T13:09:07+00:00"
-guid: https://commentgerersonbudget.fr/?p=7173
+guid: https://comment-gerer-son-budget.netlify.app//?p=7173
 tag:
   - banque
   - contrôler-son-budget

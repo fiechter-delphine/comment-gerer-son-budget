@@ -7,7 +7,7 @@ cover:
   alt: Tous sur écoute
 image: wp-content/uploads/2023/06/tous-sur-ecoute-e1687871446910.png
 date: "2023-06-27T13:18:25+00:00"
-guid: https://commentgerersonbudget.fr/?p=5542
+guid: https://comment-gerer-son-budget.netlify.app//?p=5542
 tag:
   - dernières-lois
 title: 'Projet de loi controversé : Big Brother à l''assaut de notre vie privée ! Tous sur écoute !'

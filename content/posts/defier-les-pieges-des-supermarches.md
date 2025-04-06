@@ -7,7 +7,7 @@ cover:
   alt: Qualité vs quantité
 image: wp-content/uploads/2023/07/qualite-vs-quantite.png
 date: "2023-07-10T09:38:04+00:00"
-guid: https://commentgerersonbudget.fr/?p=5743
+guid: https://comment-gerer-son-budget.netlify.app//?p=5743
 tag:
   - alimentation
   - courses
@@ -25,7 +25,7 @@ url: /defier-les-pieges-des-supermarches/
 
 Faites fonctionner le marché local ! Ne vous laissez pas berner par les milliardaires !
 
-N'hésitez pas à user de votre pouvoir de négociation **auprès de votre boucher** de confiance par exemple. **Demandez-lui,** avec un clin d'œil complice, de vous faire **une tranche un peu plus fine pour obtenir un prix plus abordable.** Ainsi, vous pourrez savourer le bonheur d'une viande succulente et tendre, sans sacrifier votre portefeuille. Et **pour vos légumes** pleins de saveur, **n'hésitez pas à les chercher chez l'agriculteur ou à adhérer à une association type** [**Amap**](https://commentgerersonbudget.fr/comment-retrouver-une-alimentation-saine-a-moindre-cout/)!
+N'hésitez pas à user de votre pouvoir de négociation **auprès de votre boucher** de confiance par exemple. **Demandez-lui,** avec un clin d'œil complice, de vous faire **une tranche un peu plus fine pour obtenir un prix plus abordable.** Ainsi, vous pourrez savourer le bonheur d'une viande succulente et tendre, sans sacrifier votre portefeuille. Et **pour vos légumes** pleins de saveur, **n'hésitez pas à les chercher chez l'agriculteur ou à adhérer à une association type** [**Amap**](https://comment-gerer-son-budget.netlify.app//comment-retrouver-une-alimentation-saine-a-moindre-cout/)!
 
 Mes amis carnivores et herbivores, ne laissez pas les supermarchés jouer avec vos papilles ! **Profitez de votre moment tant chéri,** comme le barbecue, **en faisant des choix éclairés lors de vos achats de viande et de légumes.** Et souvenez-vous, rien ne vaut la satisfaction d'une bouchée juteuse et délicieuse qui vous fait dire : "Je suis le maître du gril !"
 

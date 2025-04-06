@@ -6,7 +6,7 @@ cover:
   alt: Banque en ligne compte sans frais
 image: wp-content/uploads/2023/05/banque-en-ligne-compte-sans-frais-e1684745280882.png
 date: "2023-07-13T07:54:49+00:00"
-guid: https://commentgerersonbudget.fr/?p=5777
+guid: https://comment-gerer-son-budget.netlify.app//?p=5777
 tag:
   - banque
   - coupons-réduction
@@ -36,4 +36,4 @@ Partage cette info avec tous tes amis et famille, parce que c'est vraiment rare 
 
 ## Et ce n'est pas tout !
 
-Va faire un tour sur leur blog, tu y trouveras plein d' [astuces](https://commentgerersonbudget.fr/sujet/astuces/ "astuces ") et de bons plans à ne pas manquer. C'est comme une mine d'or, mais sans les pépites qui collent aux dents ! Et n'hésite pas à partager ces infos à tout-va, parce que le partage, c'est le pouvoir !
+Va faire un tour sur leur blog, tu y trouveras plein d' [astuces](https://comment-gerer-son-budget.netlify.app//sujet/astuces/ "astuces ") et de bons plans à ne pas manquer. C'est comme une mine d'or, mais sans les pépites qui collent aux dents ! Et n'hésite pas à partager ces infos à tout-va, parce que le partage, c'est le pouvoir !

@@ -7,7 +7,7 @@ cover:
   alt: Faire ses courses au Drive
 image: wp-content/uploads/2023/05/faire-ses-courses-au-drive-e1685540925434.png
 date: "2023-05-31T13:33:06+00:00"
-guid: https://commentgerersonbudget.fr/?p=4287
+guid: https://comment-gerer-son-budget.netlify.app//?p=4287
 tag:
   - alimentation
   - courses
@@ -51,4 +51,4 @@ Mais que vois-je ? Mes yeux n'en revenaient pas ! **Les prix étaient complètem
 
 Je devais le partager, car **je ne m'étais pas encore rendu compte** que les 2 super U ne pratiquaient pas les mêmes tarifs alors qu'ils sont à moins de 5 km de l'un de l'autre. **Alors que je suis toujours à la recherche de bons plans.** 😥
 
-Pour d'autres astuces, fouiller dans mes articles, vous ne serez pas déçu ! Lisez mon [guide gratuit](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/) pour vous aider à faire des économies et trouver des conseils pour comment gérer son budget efficacement !
+Pour d'autres astuces, fouiller dans mes articles, vous ne serez pas déçu ! Lisez mon [guide gratuit](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/) pour vous aider à faire des économies et trouver des conseils pour comment gérer son budget efficacement !

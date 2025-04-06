@@ -4,7 +4,7 @@ cover:
   alt: Explorer vos dépenses
 image: wp-content/uploads/2023/04/explorer-vos-depenses.png
 date: "2023-04-20T07:53:12+00:00"
-guid: https://commentgerersonbudget.fr/?p=1
+guid: https://comment-gerer-son-budget.netlify.app//?p=1
 title: Explorer vos dépenses ! Le grand voyage démarre ici !
 url: /guide-1-explorer-vos-depenses/
 
@@ -29,7 +29,7 @@ Heureusement, il existe un antidote ! Commençons ensemble à soigner vos finan
 
 ## Explorer vos dépenses ! Cette première étape consiste à dresser la liste de tous vos frais.
 
-![Explorer vos dépenses pour augmenter votre pouvoir d'achat](https://commentgerersonbudget.fr/wp-content/uploads/2023/04/explorer-ses-depenses-2-1024x736.png)Explorer vos dépenses
+![Explorer vos dépenses pour augmenter votre pouvoir d'achat](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/04/explorer-ses-depenses-2-1024x736.png)Explorer vos dépenses
 
 Êtes-vous prêt pour l'expédition ? 😎
 
@@ -53,10 +53,10 @@ Commencer à **dresser une liste de vos dépenses** en vous inspirant des élém
 - les frais exceptionnels : électroménager à remplacer, etc. ;
 - vos virements pour votre épargne.
 
-Cette liste est non exhaustive et reste unique suivant les ménages. N'hésitez pas à m'envoyer un message pour que je puisse tenir compte de vos remarques. Cela pourrait aider de futur(e)s lecteur(rice)s. Cliquez [ici](https://commentgerersonbudget.fr/contact/ "contactez-moi") pour me contacter par messagerie, sinon utilisez le tchat.
+Cette liste est non exhaustive et reste unique suivant les ménages. N'hésitez pas à m'envoyer un message pour que je puisse tenir compte de vos remarques. Cela pourrait aider de futur(e)s lecteur(rice)s. Cliquez [ici](https://comment-gerer-son-budget.netlify.app//contact/ "contactez-moi") pour me contacter par messagerie, sinon utilisez le tchat.
 
 Une fois la liste établie, il est temps de faire le tri. **Allez à la page suivante pour catégoriser** maintenant vos dépenses.
 
-[Précédent](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "1- Explorez vos dépenses ! Le grand voyage démarre ici !")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "1- Explorez vos dépenses ! Le grand voyage démarre ici !")
 
-[Suivant](https://commentgerersonbudget.fr/guide-2-categoriser-vos-depenses/ "2- Catégorisez vos dépenses, un nouvel obstacle à franchir !")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-2-categoriser-vos-depenses/ "2- Catégorisez vos dépenses, un nouvel obstacle à franchir !")

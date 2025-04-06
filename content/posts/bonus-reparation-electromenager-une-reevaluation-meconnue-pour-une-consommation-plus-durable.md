@@ -6,7 +6,7 @@ cover:
   alt: électroménager généré par craiyon
 image: wp-content/uploads/2024/01/electromenager-genere-par-craiyon.png
 date: "2024-01-24T16:59:33+00:00"
-guid: https://commentgerersonbudget.fr/?p=6784
+guid: https://comment-gerer-son-budget.netlify.app//?p=6784
 tag:
   - dernières-lois
   - maîtriser-ses-dépenses

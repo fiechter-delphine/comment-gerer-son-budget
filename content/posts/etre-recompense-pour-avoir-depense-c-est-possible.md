@@ -6,7 +6,7 @@ cover:
   alt: Être récompensé
 image: wp-content/uploads/2023/05/etre-recompense-igraal.png
 date: "2023-05-01T18:37:37+00:00"
-guid: https://commentgerersonbudget.fr/?p=2192
+guid: https://comment-gerer-son-budget.netlify.app//?p=2192
 tag:
   - cashback
   - pouvoir-d'achat
@@ -34,7 +34,7 @@ Mais le plus important, c'est que **l'argent accumulé est à moi** et j'en fais
 
 Mais chacun fait comme il veut. Vous pouvez même le garder dans un coffre sous votre lit, une fois le virement reçu.😎
 
-![Être récompensé par igraal à mettre dans un coffre](https://commentgerersonbudget.fr/wp-content/uploads/2023/05/etre-compense-2-1024x690.png)
+![Être récompensé par igraal à mettre dans un coffre](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/05/etre-compense-2-1024x690.png)
 
 **Gagner de l'argent sans effort** est souvent un rêve. Et pourtant...
 
@@ -88,6 +88,6 @@ En utilisant mon code parrainage, vous m'aiderez à payer les frais liés aux co
 
 ## Pour aller plus loin
 
-N'hésitez pas à consulter mon [guide gratuit](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "Joindre les deux bouts, pour vous un challenge ?") : comment gérer son budget. Vous y retrouverez **de nombreux conseils** pour augmenter votre pouvoir d'achat.
+N'hésitez pas à consulter mon [guide gratuit](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "Joindre les deux bouts, pour vous un challenge ?") : comment gérer son budget. Vous y retrouverez **de nombreux conseils** pour augmenter votre pouvoir d'achat.
 
-Pour d' **autres astuces**, n'attendez plus, aller dans l'onglet " [astuces](https://commentgerersonbudget.fr/sujet/astuces/)". Il y a également une rubrique " [bons plans](https://commentgerersonbudget.fr/sujet/bons-plans/ "bons plans")" qui vous donnera toutes les opportunités du moment à ne pas louper.
+Pour d' **autres astuces**, n'attendez plus, aller dans l'onglet " [astuces](https://comment-gerer-son-budget.netlify.app//sujet/astuces/)". Il y a également une rubrique " [bons plans](https://comment-gerer-son-budget.netlify.app//sujet/bons-plans/ "bons plans")" qui vous donnera toutes les opportunités du moment à ne pas louper.

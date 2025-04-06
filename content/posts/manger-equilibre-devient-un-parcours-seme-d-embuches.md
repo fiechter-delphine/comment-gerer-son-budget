@@ -6,7 +6,7 @@ cover:
   alt: Manger équilibré
 image: wp-content/uploads/2023/04/manger-equilibre.png
 date: "2023-04-20T07:53:12+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=2
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=2
 tag:
   - alimentation
 title: Manger équilibré devient un parcours semé d'embûches !
@@ -35,7 +35,7 @@ Depuis le début de la crise en 2022, **l'inflation a pris possession de nos por
 
 ## Qui sont ces Français en difficulté, qui ne mangent plus équilibré ?
 
-![Qui est concerné par le changement alimentaire, une femme s'interroge](https://commentgerersonbudget.fr/wp-content/uploads/2023/05/manger-equilibre-e1683276188820-1024x659.png)
+![Qui est concerné par le changement alimentaire, une femme s'interroge](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/05/manger-equilibre-e1683276188820-1024x659.png)
 
 De toute évidence et sans surprise, **les plus touchés sont les ménages modestes.** Tout profil confondu : étudiants, travailleurs ou retraités, particulièrement les personnes **qui gagnent moins que le SMIC**. Cependant, personne n'y échappe. Lire [l'article](https://www.bfmtv.com/economie/inflation-42-des-francais-les-plus-precaires-disent-avoir-supprime-un-repas-selon-l-ifop_AV-202304080177.html "l'article bfmtv").
 
@@ -53,10 +53,10 @@ Mais nous oublions également **les produits Bio qui sont plus chers**. Nous ma
 
 ## **Comment y remédier ?**
 
-Commencez par vous balader dans le [blog.](https://commentgerersonbudget.fr/) Vous **y découvrirez de nombreuses astuces**.
+Commencez par vous balader dans le [blog.](https://comment-gerer-son-budget.netlify.app//) Vous **y découvrirez de nombreuses astuces**.
 
-j'ai créé un [**guide gratuit**](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/) pour vous aider à élaborer votre propre stratégie.
+j'ai créé un [**guide gratuit**](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/) pour vous aider à élaborer votre propre stratégie.
 
-De plus, j'ai mis en place **un lieu d'échange** entre internautes via un [forum](https://commentgerersonbudget.fr/forums/).
+De plus, j'ai mis en place **un lieu d'échange** entre internautes via un [forum](https://comment-gerer-son-budget.netlify.app//forums/).
 
-Si vous avez des questions, vous pouvez **me contacter** en passant par la fiche [contact](https://commentgerersonbudget.fr/contactez-moi/) dans l’onglet ou par tchat.
+Si vous avez des questions, vous pouvez **me contacter** en passant par la fiche [contact](https://comment-gerer-son-budget.netlify.app//contactez-moi/) dans l’onglet ou par tchat.

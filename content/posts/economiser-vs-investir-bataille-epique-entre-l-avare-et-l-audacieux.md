@@ -7,7 +7,7 @@ cover:
   alt: Économiser vs. Investir
 image: wp-content/uploads/2023/08/economiser-vs.-investir-1.png
 date: "2023-08-07T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6136
+guid: https://comment-gerer-son-budget.netlify.app//?p=6136
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

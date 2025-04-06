@@ -6,7 +6,7 @@ cover:
   alt: taxe foncière généré par craiyon
 image: wp-content/uploads/2023/12/taxe-fonciere-genere-par-craiyon.png
 date: "2024-01-06T13:03:48+00:00"
-guid: https://commentgerersonbudget.fr/?p=6695
+guid: https://comment-gerer-son-budget.netlify.app//?p=6695
 tag:
   - dernières-lois
   - maîtriser-ses-dépenses

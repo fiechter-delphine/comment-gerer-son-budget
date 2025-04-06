@@ -6,7 +6,7 @@ cover:
   alt: Train SNCF FRANCE
 image: wp-content/uploads/2023/08/train-sncf-france.png
 date: "2023-08-28T15:10:16+00:00"
-guid: https://commentgerersonbudget.fr/?p=6244
+guid: https://comment-gerer-son-budget.netlify.app//?p=6244
 tag:
   - coupons-réduction
   - maîtriser-ses-dépenses

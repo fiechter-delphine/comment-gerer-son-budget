@@ -6,7 +6,7 @@ cover:
   alt: Éviter les pièges
 image: wp-content/uploads/2023/07/eviter-les-pieges.png
 date: "2023-07-11T09:32:19+00:00"
-guid: https://commentgerersonbudget.fr/?p=5768
+guid: https://comment-gerer-son-budget.netlify.app//?p=5768
 tag:
   - maîtriser-ses-dépenses
   - pièges-à-éviter

@@ -6,7 +6,7 @@ cover:
   alt: coiffeur
 image: wp-content/uploads/2023/07/pexels-valeria-boltneva-696287-scaled.webp
 date: "2023-07-28T08:00:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=5867
+guid: https://comment-gerer-son-budget.netlify.app//?p=5867
 tag:
   - maîtriser-ses-dépenses
   - pouvoir-d'achat

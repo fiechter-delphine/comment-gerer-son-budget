@@ -6,7 +6,7 @@ cover:
   alt: fin des tarifs réglementés du gaz
 image: wp-content/uploads/2023/06/fin-des-tarifs-reglementes-du-gaz.png
 date: "2023-06-14T12:35:54+00:00"
-guid: https://commentgerersonbudget.fr/?p=4965
+guid: https://comment-gerer-son-budget.netlify.app//?p=4965
 tag:
   - dernières-lois
   - energie
@@ -48,6 +48,6 @@ Le changement de fournisseur, c'est gratos ! Attends pas le 30 juin, sinon ça v
 
 Lisez mon article sur le sujet 👇👇
 
-[Contrat d'Électricité](https://commentgerersonbudget.fr/reduire-sa-facture-delectricite/)
+[Contrat d'Électricité](https://comment-gerer-son-budget.netlify.app//reduire-sa-facture-delectricite/)
 
 **Le bouclier tarifaire pour l'électricité est maintenu jusqu'en 2025**, car c'est un truc vital, selon le Conseil d'État. Donc, p **as de fin du tarif réglementé en vue pour l'électricité, t'en fais pas !**

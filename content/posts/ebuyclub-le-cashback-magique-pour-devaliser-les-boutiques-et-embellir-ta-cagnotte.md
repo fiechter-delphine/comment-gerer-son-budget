@@ -6,7 +6,7 @@ cover:
   alt: Application pour économiser
 image: wp-content/uploads/2023/08/application-pour-economiser.png
 date: "2023-08-02T03:45:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6006
+guid: https://comment-gerer-son-budget.netlify.app//?p=6006
 tag:
   - cashback
   - coupons-réduction
@@ -54,4 +54,4 @@ Alors voilà, avec eBuyClub, **tu peux acheter malin, économiser de l'argent,**
 
 Pour mieux gérer ton budget, télécharge vite mon guide gratuit 👇👇
 
-[Guide gratuit](https://commentgerersonbudget.fr/telecharger-gratuitement-le-guide-complet/)
+[Guide gratuit](https://comment-gerer-son-budget.netlify.app//telecharger-gratuitement-le-guide-complet/)

@@ -6,7 +6,7 @@ cover:
   alt: arrêt maladie
 image: wp-content/uploads/2023/06/arret-maladie-1.png
 date: "2023-06-20T07:47:42+00:00"
-guid: https://commentgerersonbudget.fr/?p=5043
+guid: https://comment-gerer-son-budget.netlify.app//?p=5043
 tag:
   - santé
 title: Bercy dégaine son épée contre les arrêts maladie
@@ -31,7 +31,7 @@ Et ce n'est pas tout ! Pour ajouter du piquant à la vie des salariés, ils veul
 
 Bercy prend cette quête de réduction des dépenses des arrêts maladie très au sérieux, mais au moins ils le font avec une bonne dose d'humour. Après tout, mieux vaut rire de tout cela que pleurer dans son mouchoir, non ? Allez, vivement le prochain numéro de ce spectacle ahurissant !
 
-Ne manquez plus aucune actualité en restant connecté. Inscrivez-vous à notre [newsletter](https://commentgerersonbudget.fr/s-abonner-a-la-newsletter/ "S’abonner à la Newsletter") dès maintenant !
+Ne manquez plus aucune actualité en restant connecté. Inscrivez-vous à notre [newsletter](https://comment-gerer-son-budget.netlify.app//s-abonner-a-la-newsletter/ "S’abonner à la Newsletter") dès maintenant !
 
 ## Exprime-toi !
 

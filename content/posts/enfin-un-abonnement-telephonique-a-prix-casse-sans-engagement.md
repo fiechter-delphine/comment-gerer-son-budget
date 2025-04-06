@@ -6,7 +6,7 @@ cover:
   alt: Abonnement téléphonique à prix cassé Coriolis
 image: wp-content/uploads/2023/06/abonnement-telephonique-a-prix-casse-coriolis.png
 date: "2023-06-08T10:29:54+00:00"
-guid: https://commentgerersonbudget.fr/?p=4718
+guid: https://comment-gerer-son-budget.netlify.app//?p=4718
 tag:
   - maîtriser-ses-dépenses
   - téléphone

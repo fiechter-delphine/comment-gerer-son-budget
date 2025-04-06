@@ -6,7 +6,7 @@ cover:
   alt: colorant dans le réservoir des toilettes
 image: wp-content/uploads/2023/10/colorant-dans-le-reservoir-des-toilettes.png
 date: "2023-10-14T11:07:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6437
+guid: https://comment-gerer-son-budget.netlify.app//?p=6437
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

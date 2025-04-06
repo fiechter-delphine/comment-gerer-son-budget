@@ -6,7 +6,7 @@ cover:
   alt: augmentation-salaire-1
 image: wp-content/uploads/2023/09/augmentation-salaire-1.png
 date: "2023-09-06T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6313
+guid: https://comment-gerer-son-budget.netlify.app//?p=6313
 tag:
   - pouvoir-d'achat
 title: 'L''explosion des salaires en 2024 : Comment gérer son budget et éviter la ruine !'

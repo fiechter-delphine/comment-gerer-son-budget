@@ -6,7 +6,7 @@ cover:
   alt: 5b24b004-5f9c-481e-a2dc-c4a1def5baf2
 image: wp-content/uploads/2023/11/prime-dactivite-genere-par-craiyon-1.png
 date: "2023-11-29T12:35:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6597
+guid: https://comment-gerer-son-budget.netlify.app//?p=6597
 tag:
   - dernières-lois
   - maîtriser-ses-dépenses

@@ -6,7 +6,7 @@ cover:
   alt: F - L'art des économies énergétiques
 image: wp-content/uploads/2023/08/f-lart-des-economies-energetiques.png
 date: "2023-08-30T03:45:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6107
+guid: https://comment-gerer-son-budget.netlify.app//?p=6107
 tag:
   - energie
   - maîtriser-ses-dépenses
@@ -37,4 +37,4 @@ Hâte-toi, compagnon, avec ces sortilèges énergétiques bien maîtrisés, tu d
 
 Pensez à adopter des gestes simple pour économiser au quotidien, et pensez à revoir votre abonnement électrique. SI tu n'as pas lu encore mon article sur le Contrat EDF voici le lien 👇👇
 
-[Contrat électrique](https://commentgerersonbudget.fr/la-guerre-de-lelectricite-remportez-la-bataille/)
+[Contrat électrique](https://comment-gerer-son-budget.netlify.app//la-guerre-de-lelectricite-remportez-la-bataille/)

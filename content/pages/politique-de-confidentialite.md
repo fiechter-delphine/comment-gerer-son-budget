@@ -1,14 +1,14 @@
 ---
 author: delphine.fiechter
 date: "2023-04-20T07:53:12+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3
 title: Politique de confidentialité
 url: /politique-de-confidentialite/
 
 ---
 ## Qui sommes-nous ?
 
-L’adresse de ce site est : https://commentgerersonbudget.fr.
+L’adresse de ce site est : https://comment-gerer-son-budget.netlify.app/.
 
 ## Commentaires
 

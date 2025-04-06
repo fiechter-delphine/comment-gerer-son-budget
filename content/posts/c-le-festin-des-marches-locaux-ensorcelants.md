@@ -7,7 +7,7 @@ cover:
   alt: C- faire ses courses sur les marchés locaux
 image: wp-content/uploads/2023/08/c-faire-ses-courses-sur-les-marches-locaux.png
 date: "2023-08-18T03:45:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6101
+guid: https://comment-gerer-son-budget.netlify.app//?p=6101
 tag:
   - alimentation
   - courses

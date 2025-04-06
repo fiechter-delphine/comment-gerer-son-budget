@@ -4,7 +4,7 @@ cover:
   alt: Les dépenses incontournables
 image: wp-content/uploads/2023/05/depenses-incontournables.png
 date: "2023-05-05T13:31:35+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=2750
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=2750
 title: Ces dépenses incontournables qui nous mettent sur la paille
 url: /guide-les-depenses-incontournables/
 
@@ -31,7 +31,7 @@ C'est un peu comme le prêt immobilier, pensez à voir avec votre banquier.
 
 Si vous avez plusieurs prêts, **pensez à les faire regrouper** pour faire diminuer vos échéances. Cependant, certains **banquiers sont réticents** car, souvent, on demande le regroupement une fois qu'on est déjà dans la misère. De plus, il est difficile pour lui par exemple, de vous prendre votre téléviseur en cas de non-paiement contrairement à votre appartement.
 
-![le huissier vous prend votre téléviseur par manque de paiement des dépenses incontournables](https://commentgerersonbudget.fr/wp-content/uploads/2023/05/huissier-1024x737.png)
+![le huissier vous prend votre téléviseur par manque de paiement des dépenses incontournables](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/05/huissier-1024x737.png)
 
 ### 3\. Les assurances
 
@@ -47,13 +47,13 @@ Avant de reprendre une nouvelle assurance, **vérifiez bien vos besoins.** Souve
 
 Ici, je parle de tous les frais que **notre banque nous applique**, pour X ou Y raisons !  Et souvent, par dépit, on est résigné. Mais il **ne faut pas hésiter à rencontrer votre conseiller** avant que vous ne soyez complètement noyé(e) dans la merde. 💩 Regardez également, s'il est peut-être possible d' **augmenter votre débit autorisé**, cela vous permettra d'éviter les frais de rejet.
 
-![une femme est démoralisée par ses frais bancaires, comment économiser](https://commentgerersonbudget.fr/wp-content/uploads/2023/05/frais-bancaires-3-1024x606.png)
+![une femme est démoralisée par ses frais bancaires, comment économiser](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/05/frais-bancaires-3-1024x606.png)
 
-Vous pouvez **voir pour une banque en ligne**. Souvent, **les frais de compte ou de carte n'existent pas**. Moi, je suis chez Boursorama et j'en suis ravie. J'ai pas mal prospecté avant d'y adhérer. J'ai écris un article dédié spécialement à cette banque, lisez l' [article](https://commentgerersonbudget.fr/compte-sans-frais-boursorama/ "") dès à présent ! SI vous êtes convaincu, j'ai un **code parrainage,** ça peut vous faire gagner un peu de pouvoir d'achat : **DEAM3142**, indiquez-le lors de votre souscription. En **utilisant mon code parrainage, vous m'aiderez à payer les frais liés aux coûts de maintenance de ce blog** et **cela évitera qu'il ne disparaisse.**
+Vous pouvez **voir pour une banque en ligne**. Souvent, **les frais de compte ou de carte n'existent pas**. Moi, je suis chez Boursorama et j'en suis ravie. J'ai pas mal prospecté avant d'y adhérer. J'ai écris un article dédié spécialement à cette banque, lisez l' [article](https://comment-gerer-son-budget.netlify.app//compte-sans-frais-boursorama/ "") dès à présent ! SI vous êtes convaincu, j'ai un **code parrainage,** ça peut vous faire gagner un peu de pouvoir d'achat : **DEAM3142**, indiquez-le lors de votre souscription. En **utilisant mon code parrainage, vous m'aiderez à payer les frais liés aux coûts de maintenance de ce blog** et **cela évitera qu'il ne disparaisse.**
 
 ### 5\. L'énergie
 
-Que dire sur le sujet ? On a tous vu sur les réseaux ou à la télévision que les tarifs pour certains ont explosé. Et que même certaines boulangeries ont dû fermer. Le conseil que je peux vous donner est **de ne pas prendre un abonnement avec engagement et de prendre les tarifs conventionnés.** Ce sont des tarifs gérés par l'État qui bloque le prix chez les fournisseurs. J'ai déniché un super abonnement auquel j'ai souscrit, lisez [mon article,](https://commentgerersonbudget.fr/reduire-sa-facture-delectricite/ "") vous allez être étonné(e) !
+Que dire sur le sujet ? On a tous vu sur les réseaux ou à la télévision que les tarifs pour certains ont explosé. Et que même certaines boulangeries ont dû fermer. Le conseil que je peux vous donner est **de ne pas prendre un abonnement avec engagement et de prendre les tarifs conventionnés.** Ce sont des tarifs gérés par l'État qui bloque le prix chez les fournisseurs. J'ai déniché un super abonnement auquel j'ai souscrit, lisez [mon article,](https://comment-gerer-son-budget.netlify.app//reduire-sa-facture-delectricite/ "") vous allez être étonné(e) !
 
 ### 6\. Les impôts
 
@@ -79,6 +79,6 @@ Pensez à anticiper et à **vérifier les remboursements réellement effectués*
 
 Passons maintenant à vos frais annuels qui gangrènent votre budget où il est difficile d'agir.
 
-[Précédent](https://commentgerersonbudget.fr/guide-les-depenses-indispensables "4- Revoir vos dépenses ! liberez-vous de vos chaînes!")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-les-depenses-indispensables "4- Revoir vos dépenses ! liberez-vous de vos chaînes!")
 
-[Suivant](https://commentgerersonbudget.fr/guide-les-frais-annuels "les frais annuels")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-les-frais-annuels "les frais annuels")

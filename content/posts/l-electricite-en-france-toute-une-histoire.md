@@ -6,7 +6,7 @@ cover:
   alt: L'électricité en France
 image: wp-content/uploads/2023/05/lelectricite-en-france-1.png
 date: "2023-05-13T22:19:48+00:00"
-guid: https://commentgerersonbudget.fr/?p=3646
+guid: https://comment-gerer-son-budget.netlify.app//?p=3646
 tag:
   - energie
 title: L'électricité en France, toute une histoire
@@ -41,4 +41,4 @@ Actuellement, **il existe une trentaine de fournisseurs alternatifs** à EDF. **
 
 A part si vous vivez dans une yourte, vous devez souscrire à un abonnement. 😩
 
-**Pour profiter d'une offre défiante toute concurrence**, lisez mon article sur le sujet [ici](https://commentgerersonbudget.fr/reduire-sa-facture-delectricite "réduire sa facture téléphonique").
+**Pour profiter d'une offre défiante toute concurrence**, lisez mon article sur le sujet [ici](https://comment-gerer-son-budget.netlify.app//reduire-sa-facture-delectricite "réduire sa facture téléphonique").

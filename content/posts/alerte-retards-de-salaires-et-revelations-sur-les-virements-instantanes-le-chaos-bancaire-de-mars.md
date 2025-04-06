@@ -6,7 +6,7 @@ cover:
   alt: chaos
 image: wp-content/uploads/2024/03/chaos--jpg.webp
 date: "2024-03-23T09:09:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=7225
+guid: https://comment-gerer-son-budget.netlify.app//?p=7225
 tag:
   - banque
   - contrôler-son-budget

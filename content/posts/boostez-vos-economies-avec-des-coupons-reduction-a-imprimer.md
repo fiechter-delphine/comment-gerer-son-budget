@@ -7,7 +7,7 @@ cover:
   alt: Coupons réduction
 image: wp-content/uploads/2023/06/coupons-reduction-e1687603113232.png
 date: "2023-06-24T10:45:46+00:00"
-guid: https://commentgerersonbudget.fr/?p=4901
+guid: https://comment-gerer-son-budget.netlify.app//?p=4901
 tag:
   - alimentation
   - cashback
@@ -45,4 +45,4 @@ Et devinez quoi ? Vous pouvez profiter de mon [offre de parrainage](https://www.
 
 ## Encore plus de PROMOS 😍 !
 
-**Lisez vite [mon article](https://commentgerersonbudget.fr/remboursement-des-produits-du-quotidien-assure/) sur le sujet ! 😍😍 jusqu'à 6 x plus de reduction !**
+**Lisez vite [mon article](https://comment-gerer-son-budget.netlify.app//remboursement-des-produits-du-quotidien-assure/) sur le sujet ! 😍😍 jusqu'à 6 x plus de reduction !**

@@ -6,7 +6,7 @@ cover:
   alt: Manger équilibré
 image: wp-content/uploads/2023/04/manger-equilibre.png
 date: "2023-08-21T03:40:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6212
+guid: https://comment-gerer-son-budget.netlify.app//?p=6212
 tag:
   - alimentation
   - courses
@@ -39,4 +39,4 @@ Voilà donc, chères et chers, l'ère nouvelle de la finesse culinaire. **Les re
 
 Si vous ne voulez pas vous retrouver le ventre vide, **pensez à faire du stock durant les promotions,** **utilisez les bons de réduction, ne vous précipitez pas vers une offre alléchante,** ce sont souvent des fausses promotions **. Soyez attentifs à tout, ne vous laissez pas berner** ! Suivez le guide pas à pas pour vos achats alimentaires 👇👇
 
-[Suivez la sorcière et son chaudron](https://commentgerersonbudget.fr/10-astuces-magiques-pour-gerer-son-budget-bomme-un-pro/)
+[Suivez la sorcière et son chaudron](https://comment-gerer-son-budget.netlify.app//10-astuces-magiques-pour-gerer-son-budget-bomme-un-pro/)

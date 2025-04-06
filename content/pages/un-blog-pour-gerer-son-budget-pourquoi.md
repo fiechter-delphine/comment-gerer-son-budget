@@ -4,7 +4,7 @@ cover:
   alt: Pourquoi un blog
 image: wp-content/uploads/2023/04/pourquoi-un-blog-1.png
 date: "2023-04-27T19:34:38+00:00"
-guid: https://commentgerersonbudget.fr/?p=1315
+guid: https://comment-gerer-son-budget.netlify.app//?p=1315
 title: Un blog pour gérer son budget , pourquoi ?
 url: /pourquoi-un-blog/
 
@@ -29,7 +29,7 @@ Vous allez découvrir de multitudes d'idées qui vous aideront à reprendre les 
 
 ## Comment est découpé ce blog et que va-t-il présenter exactement ?
 
-![Un couple sur des chaises longue , se posait la question: pourquoi un blog et se disait content d'avoir ce site : comment gérer son budget, et enfin arriver à faire des économies](https://commentgerersonbudget.fr/wp-content/uploads/2023/04/Quelle-chance-que-ce-blog-existe-1024x542.png)
+![Un couple sur des chaises longue , se posait la question: pourquoi un blog et se disait content d'avoir ce site : comment gérer son budget, et enfin arriver à faire des économies](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/04/Quelle-chance-que-ce-blog-existe-1024x542.png)
 
 Premièrement, je vous ai préparé un **guide.** Il vous permettra **de découvrir et d'acquérir de nouvelles méthodologies pour maîtriser vos dépenses et contrôler votre budget**.   🎉
 
@@ -39,9 +39,9 @@ De plus, il y aura quatre onglets supplémentaires dans le menu que vous pourrez
 
 Au fils de vos lectures, vous découvrirez de nombreuses astuces et des faits d'actualité :
 
-1. L'onglet **[Astuces](https://commentgerersonbudget.fr/sujet/astuces/ "Astuces")** : vous y trouverez divers articles qui présenteront de **nombreux conseils.** Des astuces faciles à utiliser sans effort au quotidien. Ainsi, vous deviendrez le maître des clés de votre réussite.  🗝️
-1. Les **[bons plans](https://commentgerersonbudget.fr/sujet/bons-plans/ "bons plans")** : dans cette rubrique, vous trouverez **les bons plans du moment. Ceux qu’il ne faut surtout pas louper**. Il n’est pas toujours facile d'être au courant. C’est pourquoi, je vous les transmettrai via cette rubrique.
-1. les [actualités](https://commentgerersonbudget.fr/sujet/actualites/ "actualité"): je développerai ici des sujets d'actualité pour vous tenir informé(e). Ils vous permettront d'anticiper les mesures à prendre.
+1. L'onglet **[Astuces](https://comment-gerer-son-budget.netlify.app//sujet/astuces/ "Astuces")** : vous y trouverez divers articles qui présenteront de **nombreux conseils.** Des astuces faciles à utiliser sans effort au quotidien. Ainsi, vous deviendrez le maître des clés de votre réussite.  🗝️
+1. Les **[bons plans](https://comment-gerer-son-budget.netlify.app//sujet/bons-plans/ "bons plans")** : dans cette rubrique, vous trouverez **les bons plans du moment. Ceux qu’il ne faut surtout pas louper**. Il n’est pas toujours facile d'être au courant. C’est pourquoi, je vous les transmettrai via cette rubrique.
+1. les [actualités](https://comment-gerer-son-budget.netlify.app//sujet/actualites/ "actualité"): je développerai ici des sujets d'actualité pour vous tenir informé(e). Ils vous permettront d'anticiper les mesures à prendre.
 
 J'ai également intégré dans le site, une page [Co](http://commentgerersonbudget.fr/contactez-moi/ "") [n](http://commentgerersonbudget.fr/contactez-moi/ "contactez-moi") [tact](http://commentgerersonbudget.fr/contactez-moi/ "") et un tchat qui vous permettront de me contacter en cas de besoin.
 
@@ -53,4 +53,4 @@ Pour moi,
 
 Cette devise a toujours été ma ligne de conduite lors des moments difficiles. Elle me rappelle à chaque instant, le but que je me suis fixé. Tout du long, je recherche sans cesse de nouveaux stratagèmes pour rester maître de mon avenir. Et c'est magique ! Je sors toujours triomphante.
 
-**Si vous en avez marre d'avoir les poings liés** et que vous voulez trouver des solutions. Suivez mon **[Guide](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "")**. Il est gratuit. Il vous présente, étape par étape, les phases à suivre pour apprendre : **comment gérer votre budget ?**
+**Si vous en avez marre d'avoir les poings liés** et que vous voulez trouver des solutions. Suivez mon **[Guide](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "")**. Il est gratuit. Il vous présente, étape par étape, les phases à suivre pour apprendre : **comment gérer votre budget ?**

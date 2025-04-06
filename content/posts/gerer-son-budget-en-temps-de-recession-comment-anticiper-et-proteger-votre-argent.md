@@ -6,7 +6,7 @@ cover:
   alt: anticiper la récession 2024
 image: wp-content/uploads/2023/08/anticiper.png
 date: "2023-08-04T03:40:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6030
+guid: https://comment-gerer-son-budget.netlify.app//?p=6030
 tag:
   - maîtriser-ses-dépenses
   - pièges-à-éviter
@@ -35,6 +35,6 @@ Dans cette période d'incertitude, **il est essentiel de faire preuve de réalis
 
 ## Rejoins la communauté de ceux qui veulent mieux gérer son budget !
 
-**Rejoins notre [newsletter](https://commentgerersonbudget.fr/popupbuilder/5890/ "S’abonner à la newsletter"), télécharger mon guide gratuit et explore ce blog** regorgeant de nombreuses astuces pour économiser et améliorer ton pouvoir d'achat ! Pour rester encore plus informé sur les événements qui influencent vos finances, n'hésite pas à visiter **mon autre blog** qui analyse l'actualité avec une touche de sarcasme ! **Clique ici 👇👇**
+**Rejoins notre [newsletter](https://comment-gerer-son-budget.netlify.app//popupbuilder/5890/ "S’abonner à la newsletter"), télécharger mon guide gratuit et explore ce blog** regorgeant de nombreuses astuces pour économiser et améliorer ton pouvoir d'achat ! Pour rester encore plus informé sur les événements qui influencent vos finances, n'hésite pas à visiter **mon autre blog** qui analyse l'actualité avec une touche de sarcasme ! **Clique ici 👇👇**
 
 [Madame-Râleuse.com](https://mad)

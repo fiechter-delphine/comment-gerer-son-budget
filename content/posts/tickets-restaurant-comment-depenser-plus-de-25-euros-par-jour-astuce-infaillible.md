@@ -7,7 +7,7 @@ cover:
   alt: c05043ff-98a1-4a91-a093-1811308bdf58
 image: wp-content/uploads/2023/11/c05043ff-98a1-4a91-a093-1811308bdf58.png
 date: "2023-12-02T14:57:04+00:00"
-guid: https://commentgerersonbudget.fr/?p=6615
+guid: https://comment-gerer-son-budget.netlify.app//?p=6615
 tag:
   - alimentation
   - courses

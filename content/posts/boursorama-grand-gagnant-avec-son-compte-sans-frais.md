@@ -6,7 +6,7 @@ cover:
   alt: Banque en ligne compte sans frais
 image: wp-content/uploads/2023/05/banque-en-ligne-compte-sans-frais-e1684745280882.png
 date: "2023-05-22T09:00:24+00:00"
-guid: https://commentgerersonbudget.fr/?p=3936
+guid: https://comment-gerer-son-budget.netlify.app//?p=3936
 tag:
   - banque
 title: Boursorama, grand gagnant avec son compte sans frais !
@@ -50,6 +50,6 @@ Profitez d'une offre **de parrainage en indiquant** [**DEAM3142**](https://www.b
 
 ## Pour aller plus loin
 
-N'hésitez pas à consulter mon [guide gratuit](https://commentgerersonbudget.fr/guide-joindre-les-deux-bouts/ "Joindre les deux bouts, pour vous un challenge ?") : comment gérer son budget. Vous y retrouverez **de nombreux conseils** pour augmenter votre pouvoir d'achat et faire des économies.
+N'hésitez pas à consulter mon [guide gratuit](https://comment-gerer-son-budget.netlify.app//guide-joindre-les-deux-bouts/ "Joindre les deux bouts, pour vous un challenge ?") : comment gérer son budget. Vous y retrouverez **de nombreux conseils** pour augmenter votre pouvoir d'achat et faire des économies.
 
-Aller dans les onglets " [astuces](https://commentgerersonbudget.fr/sujet/astuces/)" et " [bons plans](https://commentgerersonbudget.fr/sujet/bons-plans/ "bons plans")" où vous pourrez retrouver de nombreux conseils pour vous aider au quotidien.
+Aller dans les onglets " [astuces](https://comment-gerer-son-budget.netlify.app//sujet/astuces/)" et " [bons plans](https://comment-gerer-son-budget.netlify.app//sujet/bons-plans/ "bons plans")" où vous pourrez retrouver de nombreux conseils pour vous aider au quotidien.

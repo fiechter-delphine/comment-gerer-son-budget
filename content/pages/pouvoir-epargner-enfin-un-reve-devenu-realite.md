@@ -4,7 +4,7 @@ cover:
   alt: Faire des économies
 image: wp-content/uploads/2023/05/faire-des-economies.png
 date: "2023-05-11T08:56:11+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3092
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3092
 title: Pouvoir épargner, enfin un rêve devenu réalité !
 url: /guide-pouvoir-epargner/
 
@@ -21,7 +21,7 @@ Pour les ménages modestes, l'épargne est évaluée à seulement [360 €](http
 
 - **Utilisez les nombreuses astuces** que je vous dévoile dans ce blog pour économiser sur vos dépenses. Que cela soit pour vos courses alimentaires ou bien vos loisirs par exemple. Il faut **créer des bonnes habitudes** pour économiser. J'écris régulièrement des articles donnant de nombreux conseils et bons plans. Restez informé en vous inscrivant à la newsletter !
 
-- Utilisez par exemple **les sites qui vous reversent du Cashback,** j’ai fait déjà 2 articles dessus. Retrouvez les respectivement ici : [article 1](https://commentgerersonbudget.fr/etre-recompense-pour-avoir-depense-igraal/) et [article 2](https://commentgerersonbudget.fr/remboursement-des-produits-du-quotidien-assure/).
+- Utilisez par exemple **les sites qui vous reversent du Cashback,** j’ai fait déjà 2 articles dessus. Retrouvez les respectivement ici : [article 1](https://comment-gerer-son-budget.netlify.app//etre-recompense-pour-avoir-depense-igraal/) et [article 2](https://comment-gerer-son-budget.netlify.app//remboursement-des-produits-du-quotidien-assure/).
 
 - **Mettre de côté les remboursements** qui vous sont parvenus. En effet, ne comptez jamais sur des remboursements qui devraient arriver, car nombreux sont ceux qu'on ne touche jamais ! Alors autant les mettre de côté une fois sur votre compte !
 
@@ -41,12 +41,12 @@ Cela fait de nombreuses années, que j'ai mis en route des processus pour écono
 - **aider ma fille**
 - et surtout à **payer mes loisirs** !!!!!!!!!!!
 
-**Je suis partie de zéro en étant jeune**, visitez ma page : [qui suis-je](https://commentgerersonbudget.fr/qui-suis-je/) ? Où j **'explique d'où je viens et pourquoi je me suis mise à écrire ce blog.**
+**Je suis partie de zéro en étant jeune**, visitez ma page : [qui suis-je](https://comment-gerer-son-budget.netlify.app//qui-suis-je/) ? Où j **'explique d'où je viens et pourquoi je me suis mise à écrire ce blog.**
 
 **Vous comprendrez de suite que si je suis arrivée à épargner, vous pouvez y arriver aussi ! Mais soyez patient(e).** Il faut du temps pour avoir un matelas confortable qui vous permet de dormir sereinement.
 
 Que vous reste-t-il **pour bien gérer votre budget ? Calculer votre budget.** Allez à la page suivante du guide.
 
-[Précédent](https://commentgerersonbudget.fr/guide-les-depenses-exceptionnelles/ "les dépenses exceptionnelles")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-les-depenses-exceptionnelles/ "les dépenses exceptionnelles")
 
-[Suivant](https://commentgerersonbudget.fr/guide-5-calculer-son-budget "")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-5-calculer-son-budget "")

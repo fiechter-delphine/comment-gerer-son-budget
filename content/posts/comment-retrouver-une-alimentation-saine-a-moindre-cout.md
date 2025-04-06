@@ -7,7 +7,7 @@ cover:
   alt: Amap une alimentation saine
 image: wp-content/uploads/2023/05/amap-une-alimentation-saine-e1685395836772.png
 date: "2023-05-29T21:30:01+00:00"
-guid: https://commentgerersonbudget.fr/?p=4122
+guid: https://comment-gerer-son-budget.netlify.app//?p=4122
 tag:
   - alimentation
   - courses
@@ -15,7 +15,7 @@ title: Comment retrouver une alimentation saine à moindre coût ?
 url: /comment-retrouver-une-alimentation-saine-a-moindre-cout/
 
 ---
-**Manger des produits** **divers et variés** devient **un vrai parcours du combattant** ! L'inflation est devenue un frein à une alimentation saine et équilibrée. **Nombreux sont ceux qui se privent de produits de qualité**. Lisez mon [article](https://commentgerersonbudget.fr/manger-equilibre/ "article") sur le sujet.
+**Manger des produits** **divers et variés** devient **un vrai parcours du combattant** ! L'inflation est devenue un frein à une alimentation saine et équilibrée. **Nombreux sont ceux qui se privent de produits de qualité**. Lisez mon [article](https://comment-gerer-son-budget.netlify.app//manger-equilibre/ "article") sur le sujet.
 
 Les prix **des produits ne cessent d'augmenter** que ce soit dans les magasins discount ou chez le marchand du coin.
 

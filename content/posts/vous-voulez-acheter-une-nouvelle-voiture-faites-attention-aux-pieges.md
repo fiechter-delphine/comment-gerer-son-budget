@@ -6,7 +6,7 @@ cover:
   alt: Acheter une nouvelle voiture
 image: wp-content/uploads/2023/06/acheter-une-nouvelle-voiture-1.png
 date: "2023-06-04T08:10:56+00:00"
-guid: https://commentgerersonbudget.fr/?p=4393
+guid: https://comment-gerer-son-budget.netlify.app//?p=4393
 tag:
   - pièges-à-éviter
   - voiture

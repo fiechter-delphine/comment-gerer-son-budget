@@ -1,7 +1,7 @@
 ---
 author: delphine.fiechter
 date: "2023-06-11T18:59:52+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=4933
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=4933
 title: "Télécharger gratuitement le guide complet ! \U0001F60D"
 url: /telecharger-gratuitement-le-guide-complet/
 

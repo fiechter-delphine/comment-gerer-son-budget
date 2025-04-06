@@ -7,7 +7,7 @@ cover:
   alt: PASSOIRES THERMIQUES GÉNÉRÉ PAR CRAIYON
 image: wp-content/uploads/2023/11/passoires-thermiques-genere-par-craiyon-1.png
 date: "2023-11-18T12:17:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6579
+guid: https://comment-gerer-son-budget.netlify.app//?p=6579
 tag:
   - habitation
 title: 'Les passoires thermiques : Quand l''investissement devient un jeu d''efficacité énergétique!'

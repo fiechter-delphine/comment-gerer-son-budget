@@ -6,7 +6,7 @@ cover:
   alt: parking généré par craiyon
 image: wp-content/uploads/2023/11/parking-genere-par-craiyon.png
 date: "2023-12-20T13:02:54+00:00"
-guid: https://commentgerersonbudget.fr/?p=6477
+guid: https://comment-gerer-son-budget.netlify.app//?p=6477
 tag:
   - pièges-à-éviter
 title: Investo-Girl vous dit pourquoi choisir un lot de garages plutôt qu'un seul !

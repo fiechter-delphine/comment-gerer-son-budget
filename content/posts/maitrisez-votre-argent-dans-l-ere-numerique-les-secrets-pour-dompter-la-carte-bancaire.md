@@ -6,7 +6,7 @@ cover:
   alt: La carte bancaire
 image: wp-content/uploads/2023/06/la-carte-bancaire.png
 date: "2023-07-05T09:24:11+00:00"
-guid: https://commentgerersonbudget.fr/?p=750
+guid: https://comment-gerer-son-budget.netlify.app//?p=750
 tag:
   - maîtriser-ses-dépenses
   - pouvoir-d'achat
@@ -32,7 +32,7 @@ Pour Garder le pouvoir sur votre argent, commencer par **privilégiez les paieme
 
 Garde bien en tête, que la carte bancaire, contrairement à l'argent liquide, dissocie les dépenses réelles de la perception de l'argent, ce qui peut entraîner un tourbillon de dépenses incontrôlées !
 
-Et n'oubliez pas qu'e **n utilisant votre carte bancaire avec frénésie vous donnez plein pouvoir et vous donnez raison à la mise en place de la monnaie numérique** et que bientôt, vous ne pourrez plus rester maître de votre [budget](https://commentgerersonbudget.fr/telecharger-gratuitement-le-guide-complet/ "budget") ! 😥
+Et n'oubliez pas qu'e **n utilisant votre carte bancaire avec frénésie vous donnez plein pouvoir et vous donnez raison à la mise en place de la monnaie numérique** et que bientôt, vous ne pourrez plus rester maître de votre [budget](https://comment-gerer-son-budget.netlify.app//telecharger-gratuitement-le-guide-complet/ "budget") ! 😥
 
 ## Ton avis compte
 

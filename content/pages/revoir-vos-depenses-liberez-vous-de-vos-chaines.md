@@ -4,7 +4,7 @@ cover:
   alt: Libérez-vous de vos chaînes
 image: wp-content/uploads/2023/05/revoir-vos-depenses-liberez-vous-de-vos-chaines-1.png
 date: "2023-05-04T17:45:04+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=2596
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=2596
 title: Revoir vos dépenses ! libérez-vous de vos chaînes !
 url: /guide-4-revoir-vos-depenses/
 
@@ -67,6 +67,6 @@ C'est la phase la plus importante. Une fois que cette étape sera franchie, vous
 
 J’ai inclus dans ce guide, quelques liens ou codes de **parrainage qui vous permettront d’obtenir du cash**. Mais cela me permet également **de payer la maintenance du site pour que le blog ne disparaisse pas**. Ce n’est pas grand-chose, mais c’est beaucoup pour moi. **Merci à vous !** 😍
 
-[Précédent](https://commentgerersonbudget.fr/guide-3-analyser-vos-depenses/ "3- Analyser vos dépenses ! la victoire au bout des doigts !")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-3-analyser-vos-depenses/ "3- Analyser vos dépenses ! la victoire au bout des doigts !")
 
-[Suivant](https://commentgerersonbudget.fr/guide-les-depenses-extras "les dépenses extras")
+[Suivant](https://comment-gerer-son-budget.netlify.app//guide-les-depenses-extras "les dépenses extras")

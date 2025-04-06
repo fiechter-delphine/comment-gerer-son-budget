@@ -6,7 +6,7 @@ cover:
   alt: Seconde main
 image: wp-content/uploads/2023/08/seconde-main-1.png
 date: "2023-09-01T03:43:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6274
+guid: https://comment-gerer-son-budget.netlify.app//?p=6274
 tag:
   - maîtriser-ses-dépenses
   - pouvoir-d'achat

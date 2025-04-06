@@ -6,7 +6,7 @@ cover:
   alt: Bon de réduction Cdiscount
 image: wp-content/uploads/2023/06/bon-de-reduction-cdiscount-e1685962535171.png
 date: "2023-06-06T07:39:20+00:00"
-guid: https://commentgerersonbudget.fr/?p=4452
+guid: https://comment-gerer-son-budget.netlify.app//?p=4452
 tag:
   - banque
   - coupons-réduction
@@ -70,4 +70,4 @@ Par exemple, si vous la demandez le 1er janvier 2024 et que vous l'annulez c
 
 [Offre de bienvenue carte Cdiscount](https://www.cdiscount.com/carte-cdiscount/commande)
 
-Vous voulez avoir **plus d'astuces, baladez-vous sur mon [blog](https://commentgerersonbudget.fr/ "blog"), c'est gratuit**! C'est un moyen pour moi de partager !
+Vous voulez avoir **plus d'astuces, baladez-vous sur mon [blog](https://comment-gerer-son-budget.netlify.app// "blog"), c'est gratuit**! C'est un moyen pour moi de partager !

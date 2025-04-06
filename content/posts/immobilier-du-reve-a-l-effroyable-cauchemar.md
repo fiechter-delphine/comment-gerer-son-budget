@@ -6,7 +6,7 @@ cover:
   alt: Vente immobilière
 image: wp-content/uploads/2023/06/vente-immobiliere-1-e1687774883868.png
 date: "2023-07-03T06:48:22+00:00"
-guid: https://commentgerersonbudget.fr/?p=5319
+guid: https://comment-gerer-son-budget.netlify.app//?p=5319
 tag:
   - banque
   - habitation

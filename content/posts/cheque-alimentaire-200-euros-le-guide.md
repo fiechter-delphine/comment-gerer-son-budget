@@ -7,7 +7,7 @@ cover:
   alt: panier de légume généré par craiyon
 image: wp-content/uploads/2024/01/panier-de-legume-genere-par-craiyon-1.png
 date: "2024-01-10T16:56:27+00:00"
-guid: https://commentgerersonbudget.fr/?p=6809
+guid: https://comment-gerer-son-budget.netlify.app//?p=6809
 tag:
   - alimentation
   - maîtriser-ses-dépenses

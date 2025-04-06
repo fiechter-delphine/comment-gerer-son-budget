@@ -6,7 +6,7 @@ cover:
   alt: AUTO GÉNÉRÉ PAR CRAIYON
 image: wp-content/uploads/2023/11/auto-genere-par-craiyon-1.png
 date: "2023-11-25T12:36:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6574
+guid: https://comment-gerer-son-budget.netlify.app//?p=6574
 tag:
   - maîtriser-ses-dépenses
   - pièges-à-éviter

@@ -6,7 +6,7 @@ cover:
   alt: jongler avec son argent
 image: wp-content/uploads/2023/10/jongler-avec-son-argent-1.png
 date: "2023-10-11T11:47:23+00:00"
-guid: https://commentgerersonbudget.fr/?p=6394
+guid: https://comment-gerer-son-budget.netlify.app//?p=6394
 tag:
   - contrôler-son-budget
   - maîtriser-ses-dépenses

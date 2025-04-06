@@ -4,7 +4,7 @@ cover:
   alt: Comment calculer son budget
 image: wp-content/uploads/2023/05/comment-calculer-son-budget.png
 date: "2023-05-11T19:04:20+00:00"
-guid: https://commentgerersonbudget.fr/?page_id=3220
+guid: https://comment-gerer-son-budget.netlify.app//?page_id=3220
 title: Calculer son budget, on n'y échappe pas !
 url: /guide-5-calculer-son-budget/
 
@@ -35,17 +35,17 @@ Une fois ces **dépenses identifiées et classées**, il faut les mettre dans **
 
 Le tableau **que vous utilisez doit être clair. Il doit permettre toutes modifications ultérieurement des données inscrites.**
 
-Je vous ai préparé un **tableau pour votre budget mensuel** que **vous pouvez imprimer.** Retrouvez **[ici](https://commentgerersonbudget.fr/wp-content/uploads/2023/06/tableau-excel-calculer-son-budget-indications.png "indications tableau"),** les indications de comment remplir le tableau
+Je vous ai préparé un **tableau pour votre budget mensuel** que **vous pouvez imprimer.** Retrouvez **[ici](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/06/tableau-excel-calculer-son-budget-indications.png "indications tableau"),** les indications de comment remplir le tableau
 
-Cliquez **[ici](https://commentgerersonbudget.fr/wp-content/uploads/2023/06/feuille-excel-a-imprimer.pdf "")** pour télécharger et imprimer le tableau.
+Cliquez **[ici](https://comment-gerer-son-budget.netlify.app//wp-content/uploads/2023/06/feuille-excel-a-imprimer.pdf "")** pour télécharger et imprimer le tableau.
 
 Je vous ai également préparé un tableau Excel. Certaines cellules sont protégées car elles comportent des formules. Cela évite que vous effaciez par erreur. Cliquez 👇👇 ici pour le télécharger gratuitement
 
-[Tableau Excel](https://commentgerersonbudget.fr/tableau-excel-a-telecharger/)
+[Tableau Excel](https://comment-gerer-son-budget.netlify.app//tableau-excel-a-telecharger/)
 
-Si vous préférez télécharger le fichier imprimable, cliquez [ici](https://commentgerersonbudget.fr/telecharger-le-tableau-excel-imprimable/ "").
+Si vous préférez télécharger le fichier imprimable, cliquez [ici](https://comment-gerer-son-budget.netlify.app//telecharger-le-tableau-excel-imprimable/ "").
 
-Pour vous faciliter encore plus la tâche, bientôt, **une application** verra le jour. Elle vous permettra **les mêmes fonctions**, mais son atout majeur sera, que vous pourrez **compléter ou modifier les sommes ou que vous soyez.** Ainsi, vous aurez **votre solde compte à jour immédiatement** sans ouvrir un tableau Excel. Restez informé(e) de sa sortie en vous abonnant à la [newsletter](https://commentgerersonbudget.fr/s-abonner-a-la-newsletter/ "S’abonner à la Newsletter").
+Pour vous faciliter encore plus la tâche, bientôt, **une application** verra le jour. Elle vous permettra **les mêmes fonctions**, mais son atout majeur sera, que vous pourrez **compléter ou modifier les sommes ou que vous soyez.** Ainsi, vous aurez **votre solde compte à jour immédiatement** sans ouvrir un tableau Excel. Restez informé(e) de sa sortie en vous abonnant à la [newsletter](https://comment-gerer-son-budget.netlify.app//s-abonner-a-la-newsletter/ "S’abonner à la Newsletter").
 
 ### Voici quelques astuces supplémentaires :
 
@@ -65,6 +65,6 @@ Mais surtout ce que vous devez faire, c'est : **anticiper vos dépenses** et **r
 
 Pour connaître la méthode pour suivre votre compte, allez à la dernière page de ce guide.
 
-[Précédent](https://commentgerersonbudget.fr/guide-pouvoir-epargner "avoir une épargne")
+[Précédent](https://comment-gerer-son-budget.netlify.app//guide-pouvoir-epargner "avoir une épargne")
 
 [Suivant](http://commentgerersonbudget.fr/guide-suivre-son-compte "Suivre son compte")

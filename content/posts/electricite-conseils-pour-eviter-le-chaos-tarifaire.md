@@ -6,7 +6,7 @@ cover:
   alt: elec
 image: wp-content/uploads/2024/02/elec-jpg.webp
 date: "2024-02-21T11:43:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=7057
+guid: https://comment-gerer-son-budget.netlify.app//?p=7057
 tag:
   - energie
   - maîtriser-ses-dépenses

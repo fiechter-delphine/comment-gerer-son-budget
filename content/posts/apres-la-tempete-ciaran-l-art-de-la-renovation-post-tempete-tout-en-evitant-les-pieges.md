@@ -6,7 +6,7 @@ cover:
   alt: tempête Ciaran généré par craiyon
 image: wp-content/uploads/2023/11/tempete-ciaran-genere-par-craiyon.png
 date: "2023-11-03T12:19:49+00:00"
-guid: https://commentgerersonbudget.fr/?p=6548
+guid: https://comment-gerer-son-budget.netlify.app//?p=6548
 tag:
   - habitation
   - maîtriser-ses-dépenses

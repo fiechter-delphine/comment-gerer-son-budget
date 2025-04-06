@@ -8,7 +8,7 @@ cover:
   alt: crédit immobilier généré par craiyon
 image: wp-content/uploads/2023/12/credit-immobilier-genere-par-craiyon.png
 date: "2024-01-20T12:37:33+00:00"
-guid: https://commentgerersonbudget.fr/?p=6711
+guid: https://comment-gerer-son-budget.netlify.app//?p=6711
 tag:
   - dernières-lois
   - habitation

@@ -6,7 +6,7 @@ cover:
   alt: Réduire sa facture d'électricité
 image: wp-content/uploads/2023/06/reduire-sa-facture-delectricite.png
 date: "2023-06-26T17:15:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=5464
+guid: https://comment-gerer-son-budget.netlify.app//?p=5464
 tag:
   - energie
   - habitation

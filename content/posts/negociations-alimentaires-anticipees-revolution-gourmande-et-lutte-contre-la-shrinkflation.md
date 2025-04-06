@@ -6,7 +6,7 @@ cover:
   alt: bruno-le-maire-3
 image: wp-content/uploads/2023/09/bruno-le-maire-3.png
 date: "2023-09-04T03:50:00+00:00"
-guid: https://commentgerersonbudget.fr/?p=6290
+guid: https://comment-gerer-son-budget.netlify.app//?p=6290
 tag:
   - alimentation
   - pouvoir-d'achat

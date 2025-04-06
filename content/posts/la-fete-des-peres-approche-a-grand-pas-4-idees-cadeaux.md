@@ -6,7 +6,7 @@ cover:
   alt: Idées cadeaux pour la fête des pères
 image: wp-content/uploads/2023/06/idees-cadeaux-pour-la-fete-des-peres-e1686384178922.png
 date: "2023-06-10T07:55:55+00:00"
-guid: https://commentgerersonbudget.fr/?p=4386
+guid: https://comment-gerer-son-budget.netlify.app//?p=4386
 tag:
   - cadeau
 title: La fête des pères approche à grand pas, 4 idées cadeaux !
@@ -38,7 +38,7 @@ Vous pouvez aussi **utiliser iGraal pour vous faire rembourser**, pour cumuler u
 - Marionnaud 4 %
 - et Yves Rocher c'est 6 %
 
-Vous ne connaissez pas iGraal, **lisez mon [article](https://commentgerersonbudget.fr/etre-recompense-pour-avoir-depense-igraal/ "") sur le sujet**. Je vous dévoile tout. **Pour profiter de mon offre parrainage,** cliquez sur le bouton par ici 👇👇👇
+Vous ne connaissez pas iGraal, **lisez mon [article](https://comment-gerer-son-budget.netlify.app//etre-recompense-pour-avoir-depense-igraal/ "") sur le sujet**. Je vous dévoile tout. **Pour profiter de mon offre parrainage,** cliquez sur le bouton par ici 👇👇👇
 
 Parrainage iGraal
 

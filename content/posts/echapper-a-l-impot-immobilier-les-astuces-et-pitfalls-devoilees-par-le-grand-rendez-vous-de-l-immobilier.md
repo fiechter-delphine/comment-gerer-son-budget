@@ -7,7 +7,7 @@ cover:
   alt: immobilier généré par craiyon
 image: wp-content/uploads/2024/01/immobilier-genere-par-craiyon.png
 date: "2024-01-27T17:01:12+00:00"
-guid: https://commentgerersonbudget.fr/?p=6787
+guid: https://comment-gerer-son-budget.netlify.app//?p=6787
 tag:
   - habitation
   - pièges-à-éviter
